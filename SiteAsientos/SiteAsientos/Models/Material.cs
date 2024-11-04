@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
 namespace SiteAsientos.Models
@@ -9,10 +10,12 @@ namespace SiteAsientos.Models
         public int Material_Id { get; set; }
 
         [Required, MaxLength(32)]
-        [Remote("MaterialExists","Material",ErrorMessage = "Este material ya existe en el sistema")]
+        [Remote("MaterialExists", "Material", ErrorMessage = "Este material ya existe en el sistema")]
+        [DisplayName("Material")]
         public string Material_Name { get; set; }
 
         [Required]
+        [DisplayName("Estado")]
         public bool Material_Status { get; set; }
 
 

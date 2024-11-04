@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SiteAsientos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e67ac2ec6bb428f21ec6e599b525ba30e06e267")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ab542f8afda1ba83146a00c663cd3e16775fe19")]
 [assembly: System.Reflection.AssemblyProductAttribute("SiteAsientos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SiteAsientos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
