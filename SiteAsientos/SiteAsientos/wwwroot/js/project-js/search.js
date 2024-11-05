@@ -1,4 +1,5 @@
-﻿$('#txtSearchMaterials').keyup(function ()
+﻿//Filtro de lista por medio de buscador
+$('#txtSearch').keyup(function ()
 {
     var value = $(this).val();
     $('tbody tr').each(function ()

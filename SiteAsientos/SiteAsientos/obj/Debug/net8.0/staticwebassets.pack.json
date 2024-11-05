@@ -409,8 +409,12 @@
       "PackagePath": "staticwebassets\\img\\materials-img\\vr-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\fabric-pattern.png",
-      "PackagePath": "staticwebassets\\img\\project-img\\fabric-pattern.png"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-material.png",
+      "PackagePath": "staticwebassets\\img\\project-img\\img-material.png"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-supplier.png",
+      "PackagePath": "staticwebassets\\img\\project-img\\img-supplier.png"
     },
     {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\materials-js\\core\\bootstrap.bundle.min.js",
@@ -459,10 +463,6 @@
     {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\materials-js\\plugins\\world.js",
       "PackagePath": "staticwebassets\\js\\materials-js\\plugins\\world.js"
-    },
-    {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\project-js\\modals.js",
-      "PackagePath": "staticwebassets\\js\\project-js\\modals.js"
     },
     {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\project-js\\search.js",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ObvoWhA1vmg8eqG0WDe0jcLU5pLABL1pryk9D9TMt7U=",
+  "Hash": "+5DD+FNyjQ+i4mdh5qEtQddEs01cez+I3m7FS9UcoTk=",
   "Source": "SiteAsientos",
   "BasePath": "_content/SiteAsientos",
   "Mode": "Default",
@@ -1974,12 +1974,12 @@
       "OriginalItemSpec": "wwwroot\\img\\materials-img\\vr-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\fabric-pattern.png",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-material.png",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "img/project-img/fabric-pattern.png",
+      "RelativePath": "img/project-img/img-material.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1990,7 +1990,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\project-img\\fabric-pattern.png"
+      "OriginalItemSpec": "wwwroot\\img\\project-img\\img-material.png"
+    },
+    {
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-supplier.png",
+      "SourceId": "SiteAsientos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
+      "BasePath": "_content/SiteAsientos",
+      "RelativePath": "img/project-img/img-supplier.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\project-img\\img-supplier.png"
     },
     {
       "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\materials-js\\core\\bootstrap.bundle.min.js",
@@ -2219,25 +2238,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\materials-js\\plugins\\world.js"
-    },
-    {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\project-js\\modals.js",
-      "SourceId": "SiteAsientos",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
-      "BasePath": "_content/SiteAsientos",
-      "RelativePath": "js/project-js/modals.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\project-js\\modals.js"
     },
     {
       "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\project-js\\search.js",
