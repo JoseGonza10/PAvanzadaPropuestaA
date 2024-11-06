@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
@@ -70,8 +71,9 @@ namespace SiteAsientos.Controllers
         [AcceptVerbs("Get", "Post")]
         public async Task<IActionResult> MaterialExists(Material material)
         {
-            var existingSupplier = _context.Material.Where(x => x.Material_Name == material.Material_Name);
-            if (existingSupplier.Any())
+            Debug.WriteLine("El id es" + material.Material_Id);
+            var existingMaterial = _context.Material.Where(x => x.Material_Name == material.Material_Name);
+            if (existingMaterial.Any())
             {
                 return Json(false);
             }
@@ -79,6 +81,30 @@ namespace SiteAsientos.Controllers
             {
                 return Json(true);
             }
+        }
+
+        public bool UniqueMaterial(int id, string name)
+        {
+            bool flag = true;
+            if (id == 0)
+            {
+                flag = false;
+            }
+            else
+            {
+                var referencedMaterial = _context.Material.First(x => x.Material_Id == id);
+                var existingMaterials = _context.Material.Where(x => x.Material_Name == name && x.Material_Id != id);
+                if (referencedMaterial.Material_Name == name || !existingMaterials.Any())
+                {
+                    flag = false;
+                }
+                else
+                {
+                    flag = true;
+                }
+            }
+            return flag;
+
         }
 
         // GET: Material/Edit/5
@@ -169,5 +195,7 @@ namespace SiteAsientos.Controllers
         {
             return _context.Material.Any(e => e.Material_Id == id);
         }
+
+
     }
 }

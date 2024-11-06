@@ -58,6 +58,7 @@ namespace SiteAsientos.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Supplier_Id,Supplier_Name,Supplier_Address,Supplier_Phone,Supplier_Email,Supplier_Status")] Supplier supplier)
         {
+            //Para inicializar la fecha de entrada
             supplier.Supplier_DateAdded = DateTime.Now;
             if (ModelState.IsValid)
             {
@@ -133,6 +134,7 @@ namespace SiteAsientos.Controllers
                 try
                 {
                     _context.Update(supplier);
+                    _context.Entry(supplier).Property(x => x.Supplier_DateAdded).IsModified = false;
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
