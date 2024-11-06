@@ -25,7 +25,10 @@ namespace SiteAsientos.Models
         [Required, MaxLength(32)]
         public string Employee_Phone { get; set; }
 
-        [Required]
+		[Required, MaxLength(32)]
+		public string Employee_Type { get; set; }
+
+		[Required]
         public bool Employee_Status { get; set; }
 
         // Relaciones
