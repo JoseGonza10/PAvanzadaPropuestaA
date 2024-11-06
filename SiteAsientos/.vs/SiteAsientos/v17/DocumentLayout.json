@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\josep\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\josep\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\josep\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\supplier\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\supplier\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\josep\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\supplier\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\supplier\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\josep\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\josep\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\controllers\\materialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\josep\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\josep\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\josep\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -142,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 54,
+          "SelectedChildIndex": 58,
           "Children": [
             {
               "$type": "Bookmark",
@@ -334,45 +334,15 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Supplier\\Details.cshtml",
-              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Supplier\\Details.cshtml",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Supplier\\Details.cshtml",
-              "RelativeToolTip": "SiteAsientos\\Views\\Supplier\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-05T17:46:29.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Supplier\\Create.cshtml",
-              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Supplier\\Create.cshtml",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Supplier\\Create.cshtml",
-              "RelativeToolTip": "SiteAsientos\\Views\\Supplier\\Create.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAGsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-04T04:57:04.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Material\\Index.cshtml",
               "RelativeDocumentMoniker": "SiteAsientos\\Views\\Material\\Index.cshtml",
@@ -385,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Material\\Edit.cshtml",
               "RelativeDocumentMoniker": "SiteAsientos\\Views\\Material\\Edit.cshtml",
@@ -398,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Supplier\\Edit.cshtml",
               "RelativeDocumentMoniker": "SiteAsientos\\Views\\Supplier\\Edit.cshtml",
@@ -411,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_Layout2.cshtml",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_Layout2.cshtml",
               "RelativeDocumentMoniker": "SiteAsientos\\Views\\Shared\\_Layout2.cshtml",
@@ -437,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Supplier\\Index.cshtml",
               "RelativeDocumentMoniker": "SiteAsientos\\Views\\Supplier\\Index.cshtml",
@@ -450,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Tables.cshtml",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Plantilla\\Tables.cshtml",
               "RelativeDocumentMoniker": "SiteAsientos\\Views\\Plantilla\\Tables.cshtml",
@@ -463,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Plantilla\\Index.cshtml",
               "RelativeDocumentMoniker": "SiteAsientos\\Views\\Plantilla\\Index.cshtml",
@@ -476,7 +446,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SiteAsientos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T19:24:46.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "SiteAsientos\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "SiteAsientos\\Controllers\\SupplierController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAlwEAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:48:14.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Supplier\\Create.cshtml",
+              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Supplier\\Create.cshtml",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Supplier\\Create.cshtml",
+              "RelativeToolTip": "SiteAsientos\\Views\\Supplier\\Create.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAGsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T04:57:04.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Supplier\\Details.cshtml",
+              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Supplier\\Details.cshtml",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Supplier\\Details.cshtml",
+              "RelativeToolTip": "SiteAsientos\\Views\\Supplier\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T17:46:29.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Material.cs",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Material.cs",
               "RelativeDocumentMoniker": "SiteAsientos\\Models\\Material.cs",
@@ -489,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MaterialController.cs",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Controllers\\MaterialController.cs",
               "RelativeDocumentMoniker": "SiteAsientos\\Controllers\\MaterialController.cs",
@@ -502,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Material\\Create.cshtml",
               "RelativeDocumentMoniker": "SiteAsientos\\Views\\Material\\Create.cshtml",
@@ -515,20 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SiteAsientos\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T19:24:46.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Supplier.cs",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Supplier.cs",
               "RelativeDocumentMoniker": "SiteAsientos\\Models\\Supplier.cs",
@@ -541,20 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SupplierController.cs",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Controllers\\SupplierController.cs",
-              "RelativeDocumentMoniker": "SiteAsientos\\Controllers\\SupplierController.cs",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Controllers\\SupplierController.cs",
-              "RelativeToolTip": "SiteAsientos\\Controllers\\SupplierController.cs",
-              "ViewState": "AQIAAHYAAAAAAAAAAADwv4gAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T18:48:14.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PlantillaController.cs",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Controllers\\PlantillaController.cs",
               "RelativeDocumentMoniker": "SiteAsientos\\Controllers\\PlantillaController.cs",
@@ -580,7 +580,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Supplier\\Delete.cshtml",
               "RelativeDocumentMoniker": "SiteAsientos\\Views\\Supplier\\Delete.cshtml",

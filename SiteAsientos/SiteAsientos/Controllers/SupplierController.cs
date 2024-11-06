@@ -47,7 +47,7 @@ namespace SiteAsientos.Controllers
 
         // GET: Supplier/Create
         public IActionResult Create()
-        {
+        {  
             return View();
         }
 
