@@ -16,7 +16,7 @@ public partial class CubreasientosContext : DbContext
     }
 
 	// DbSets para cada entidad
-	public DbSet<Employee> Employees { get; set; }
+	public DbSet<Employee> Employee { get; set; }
 	public DbSet<Material> Material { get; set; }
 	public DbSet<Color> Colors { get; set; }
 	public DbSet<Vehicle> Vehicles { get; set; }

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Documentos\\Fidelitas\\Proyecto\\PAvanzadaPropuestaA\\SiteAsientos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\franc\\onedrive\\documentos\\fidelitas\\proyecto\\pavanzadapropuestaa\\siteasientos\\siteasientos\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\franc\\onedrive\\documentos\\fidelitas\\proyecto\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\franc\\onedrive\\documentos\\fidelitas\\proyecto\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\franc\\onedrive\\documentos\\fidelitas\\proyecto\\pavanzadapropuestaa\\siteasientos\\siteasientos\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\franc\\onedrive\\documentos\\fidelitas\\proyecto\\pavanzadapropuestaa\\siteasientos\\siteasientos\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,16 +41,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\Fidelitas\\Proyecto\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "SiteAsientos\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\Fidelitas\\Proyecto\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "SiteAsientos\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\Fidelitas\\Proyecto\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Employee\\Index.cshtml*",
+              "RelativeToolTip": "SiteAsientos\\Views\\Employee\\Index.cshtml*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-06T00:57:56.114Z",
@@ -58,12 +58,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\Fidelitas\\Proyecto\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "SiteAsientos\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\Fidelitas\\Proyecto\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "SiteAsientos\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\Fidelitas\\Proyecto\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Employee\\Create.cshtml*",
+              "RelativeToolTip": "SiteAsientos\\Views\\Employee\\Create.cshtml*",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-06T00:57:15.391Z",
@@ -106,13 +106,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Documentos\\Fidelitas\\Proyecto\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "SiteAsientos\\Models\\Employee.cs",
               "ToolTip": "C:\\Users\\franc\\OneDrive\\Documentos\\Fidelitas\\Proyecto\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Employee.cs*",
               "RelativeToolTip": "SiteAsientos\\Models\\Employee.cs*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T21:28:16.248Z",
               "EditorCaption": ""
