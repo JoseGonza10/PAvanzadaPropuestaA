@@ -6,6 +6,7 @@ using SiteAsientos.Models;
 
 namespace SiteAsientos.Controllers
 {
+    [Authorize]
     public class VehiculoController : Controller
     {
         private readonly CubreasientosContext _context;
