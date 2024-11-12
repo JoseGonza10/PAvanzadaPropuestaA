@@ -1,0 +1,96 @@
+﻿@model IEnumerable<SiteAsientos.Models.Order>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Order_Code)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order_Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order_CustomerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order_CustomerId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order_CustomerPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order_CustomerEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order_CustomerPlateNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order_FirstVisitDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order_SecondVisitDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order_Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerCar)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order_Code)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order_Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order_CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order_CustomerId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order_CustomerPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order_CustomerEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order_CustomerPlateNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order_FirstVisitDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order_SecondVisitDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order_Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerCar.Vehicle_Brand)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Order_Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Order_Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Order_Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

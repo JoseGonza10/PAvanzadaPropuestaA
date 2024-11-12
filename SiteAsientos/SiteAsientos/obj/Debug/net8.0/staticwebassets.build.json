@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+5DD+FNyjQ+i4mdh5qEtQddEs01cez+I3m7FS9UcoTk=",
+  "Hash": "tuJ23uE/3W4cQljJXdW/poREFyJ333OIDC2eqfRRZG8=",
   "Source": "SiteAsientos",
   "BasePath": "_content/SiteAsientos",
   "Mode": "Default",
@@ -1974,6 +1974,25 @@
       "OriginalItemSpec": "wwwroot\\img\\materials-img\\vr-bg.jpg"
     },
     {
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-admin.png",
+      "SourceId": "SiteAsientos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
+      "BasePath": "_content/SiteAsientos",
+      "RelativePath": "img/project-img/img-admin.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\project-img\\img-admin.png"
+    },
+    {
       "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-material.png",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
@@ -2010,6 +2029,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\project-img\\img-supplier.png"
+    },
+    {
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-user.png",
+      "SourceId": "SiteAsientos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
+      "BasePath": "_content/SiteAsientos",
+      "RelativePath": "img/project-img/img-user.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\project-img\\img-user.png"
     },
     {
       "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\materials-js\\core\\bootstrap.bundle.min.js",

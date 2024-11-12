@@ -20,6 +20,7 @@ namespace SiteAsientos.Controllers
         }
 
         // GET: Supplier
+        //[Authorize]
         public async Task<IActionResult> Index()
         {
             var Supplier = new List<Supplier>();
@@ -46,6 +47,7 @@ namespace SiteAsientos.Controllers
         }
 
         // GET: Supplier/Create
+        //[Authorize]
         public IActionResult Create()
         {  
             return View();
@@ -102,6 +104,7 @@ namespace SiteAsientos.Controllers
 
 
         // GET: Supplier/Edit/5
+        //[Authorize]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -154,6 +157,7 @@ namespace SiteAsientos.Controllers
         }
 
         // GET: Supplier/Delete/5
+        //[Authorize]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)

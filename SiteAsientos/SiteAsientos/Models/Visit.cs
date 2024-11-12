@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel;
 
 namespace SiteAsientos.Models
 {
@@ -10,6 +11,7 @@ namespace SiteAsientos.Models
         public int Visit_Id { get; set; }
 
         [Required, MaxLength(32)]
+        [DisplayName("Código de Visita")]
         public string Visit_Code { get; set; }
 
         [Required]
@@ -19,11 +21,13 @@ namespace SiteAsientos.Models
         public int Visit_EmployeeId { get; set; }
 
         [Required, MaxLength(32)]
-        public string Vist_Type { get; set; }
-
+        [DisplayName("Tipo de Visita")]
+        public string Visit_Type { get; set; }
+        [DisplayName("Fecha de Visita")]
         public DateTime? Visit_Date { get; set; }
 
         [Required]
+        [DisplayName("Estado")]
         public bool Visit_Status { get; set; }
  
         [ForeignKey("Visit_OrderId")]

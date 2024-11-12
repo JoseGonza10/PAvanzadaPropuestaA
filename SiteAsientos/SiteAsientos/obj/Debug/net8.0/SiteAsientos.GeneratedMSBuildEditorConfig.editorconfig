@@ -17,131 +17,311 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SiteAsientos
 build_property.RootNamespace = SiteAsientos
-build_property.ProjectDir = C:\Users\jsarr\OneDrive\Documentos\GitHub\PAvanzadaPropuestaA\SiteAsientos\SiteAsientos\
+build_property.ProjectDir = C:\Users\josep\OneDrive\Documentos\GitHub\PAvanzadaPropuestaA\SiteAsientos\SiteAsientos\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\jsarr\OneDrive\Documentos\GitHub\PAvanzadaPropuestaA\SiteAsientos\SiteAsientos
+build_property.MSBuildProjectDirectory = C:\Users\josep\OneDrive\Documentos\GitHub\PAvanzadaPropuestaA\SiteAsientos\SiteAsientos
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Design/Create.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/CentralDesign/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VudHJhbERlc2lnblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/CentralDesign/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VudHJhbERlc2lnblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/CentralDesign/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VudHJhbERlc2lnblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/CentralDesign/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VudHJhbERlc2lnblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/CentralDesign/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VudHJhbERlc2lnblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Color/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Color/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Color/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Color/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Color/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Design/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Design/Delete.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Design/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Design/Details.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Design/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Design/Edit.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Design/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Design/Index.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Design/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Home/Index.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Home/Privacy.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Login/Index.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Invoice/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Invoice/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Invoice/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Invoice/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Invoice/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/LateralDesign/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF0ZXJhbERlc2lnblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/LateralDesign/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF0ZXJhbERlc2lnblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/LateralDesign/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF0ZXJhbERlc2lnblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/LateralDesign/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF0ZXJhbERlc2lnblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/LateralDesign/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF0ZXJhbERlc2lnblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Material/Create.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Material/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Material/Delete.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Material/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Material/Details.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Material/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Material/Edit.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Material/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Material/Index.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Material/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Material/_EditMaterialPartial.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Material/_EditMaterialPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcX0VkaXRNYXRlcmlhbFBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Plantilla/Billing.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Order/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Order/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Order/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Plantilla/Billing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRpbGxhXEJpbGxpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Plantilla/Dashboard.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Plantilla/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRpbGxhXERhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Plantilla/Index.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Plantilla/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRpbGxhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Plantilla/Profile.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Plantilla/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRpbGxhXFByb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Plantilla/Tables.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Plantilla/Tables.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRpbGxhXFRhYmxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Shared/Error.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Seat/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Seat/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Seat/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Seat/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Seat/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Shared/_Layout2.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Shared/_Layout2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Supplier/Create.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Supplier/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Supplier/Delete.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Supplier/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Supplier/Details.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Supplier/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Supplier/Edit.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Supplier/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Supplier/Index.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Supplier/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/_ViewImports.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Visit/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Visit/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Visit/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Visit/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Visit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/_ViewStart.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jsarr/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Shared/_Layout.cshtml]
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-j7c295jpyp

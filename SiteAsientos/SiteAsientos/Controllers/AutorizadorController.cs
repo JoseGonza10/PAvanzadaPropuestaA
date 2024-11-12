@@ -25,7 +25,7 @@ namespace SiteAsientos.Controllers
         public async Task<IActionResult> Login([FromBody] Employee loginRequest)
         {
 
-            var employeeBD = await _context.Employees
+            var employeeBD = await _context.Employee
                 .FirstOrDefaultAsync(m => m.Employee_Email == loginRequest.Employee_Email);
 
             if (loginRequest == null)

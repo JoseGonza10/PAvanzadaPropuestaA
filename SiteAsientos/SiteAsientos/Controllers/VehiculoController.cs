@@ -17,7 +17,7 @@ namespace SiteAsientos.Controllers
         // GET: Vehiculo 
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Vehicles.ToListAsync());
+            return View(await _context.Vehicle.ToListAsync());
         }
 
         // GET: Vehiculo/Details/5
@@ -27,7 +27,7 @@ namespace SiteAsientos.Controllers
                 return BadRequest(); 
             }
 
-            var vehiculo = await _context.Vehicles
+            var vehiculo = await _context.Vehicle
                 .FirstOrDefaultAsync(m => m.Vehicle_Id == id);
             if (vehiculo == null)
             {
@@ -69,7 +69,7 @@ namespace SiteAsientos.Controllers
          
         private bool Exists(Vehicle vehicle)
         {
-           return _context.Vehicles.Where(x => x.Vehicle_Id == vehicle.Vehicle_Id).Any();
+           return _context.Vehicle.Where(x => x.Vehicle_Id == vehicle.Vehicle_Id).Any();
         }
 
 
@@ -104,7 +104,7 @@ namespace SiteAsientos.Controllers
                 return NotFound();
             }
 
-            var vehicle = await _context.Vehicles.FindAsync(id);
+            var vehicle = await _context.Vehicle.FindAsync(id);
             if (vehicle == null)
             {
                 return NotFound();
@@ -186,7 +186,7 @@ namespace SiteAsientos.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!Exists(vehicle.Vehicle_Id))
+                    if (!Exists(vehicle))
                     {
                         return NotFound();
                     }
@@ -212,7 +212,7 @@ namespace SiteAsientos.Controllers
                 return NotFound();
             }
 
-            var vehicle = await _context.Vehicles
+            var vehicle = await _context.Vehicle
                 .FirstOrDefaultAsync(m => m.Vehicle_Id == id);
             if (vehicle == null)
             {
@@ -233,10 +233,10 @@ namespace SiteAsientos.Controllers
             {
                 return BadRequest();
             }
-            var vehicle = await _context.Vehicles.FindAsync(id);
+            var vehicle = await _context.Vehicle.FindAsync(id);
             if (vehicle != null)
             {
-                _context.Vehicles.Remove(vehicle);
+                _context.Vehicle.Remove(vehicle);
             }
 
             await _context.SaveChangesAsync();
