@@ -95,13 +95,13 @@ PRIMARY KEY(Image_Id)
 
 CREATE TABLE DESIGN(
 Design_Id INT NOT NULL IDENTITY(1,1),
-Design_VehicleId INT NOT NULL,
+Design_VehicleSeatId INT NOT NULL,
 Design_CentralDesignId INT NOT NULL,
 Design_LateralDesignId INT NOT NULL,
 Design_ImageId INT NOT NULL,
 Design_Status BIT NOT NULL,
 PRIMARY KEY(Design_Id),
-CONSTRAINT Fk_DVehicle FOREIGN KEY (Design_VehicleId) REFERENCES VEHICLE (Vehicle_Id),
+CONSTRAINT Fk_DVehicleSeat FOREIGN KEY (Design_VehicleSeatId) REFERENCES VEHICLESEAT (VehicleSeat_Id),
 CONSTRAINT FK_DCentralDesign FOREIGN KEY (Design_CentralDesignId) REFERENCES CENTRALDESIGN (CentralDesign_Id),
 CONSTRAINT FK_DLateralDesign FOREIGN KEY (Design_LateralDesignId) REFERENCES LATERALDESIGN (LateralDesign_Id),
 CONSTRAINT Fk_DImage FOREIGN KEY (Design_ImageId) REFERENCES IMAGES (Image_Id),

@@ -21,7 +21,7 @@ namespace SiteAsientos.Controllers
         // GET: Design
         public async Task<IActionResult> Index()
         {
-            var cubreasientosContext = _context.Design.Include(d => d.CentralDesign).Include(d => d.Image).Include(d => d.LateralDesign).Include(d => d.Vehicle);
+            var cubreasientosContext = _context.Design.Include(d => d.CentralDesign).Include(d => d.Image).Include(d => d.LateralDesign).Include(d => d.VehicleSeat);
             return View(await cubreasientosContext.ToListAsync());
         }
 
@@ -37,7 +37,7 @@ namespace SiteAsientos.Controllers
                 .Include(d => d.CentralDesign)
                 .Include(d => d.Image)
                 .Include(d => d.LateralDesign)
-                .Include(d => d.Vehicle)
+                .Include(d => d.VehicleSeat)
                 .FirstOrDefaultAsync(m => m.Design_Id == id);
             if (design == null)
             {
@@ -51,9 +51,9 @@ namespace SiteAsientos.Controllers
         public IActionResult Create()
         {
             ViewData["Design_CentralDesignId"] = new SelectList(_context.CentralDesign, "CentralDesign_Id", "CentralDesign_Id");
-            ViewData["Design_ImageId"] = new SelectList(_context.Image, "Image_Id", "Image_Id");
+            ViewData["Design_ImageId"] = new SelectList(_context.Images, "Image_Id", "Image_Id");
             ViewData["Design_LateralDesignId"] = new SelectList(_context.LateralDesign, "LateralDesign_Id", "LateralDesign_Id");
-            ViewData["Design_VehicleId"] = new SelectList(_context.Vehicle, "Vehicle_Id", "Vehicle_Brand");
+            ViewData["Design_VehicleSeatId"] = new SelectList(_context.VehicleSeat, "VehicleSeat_Id", "VehicleSeat_Id");
             return View();
         }
 
@@ -62,7 +62,7 @@ namespace SiteAsientos.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Design_Id,Design_VehicleId,Design_CentralDesignId,Design_LateralDesignId,Design_ImageId,Design_Status")] Design design)
+        public async Task<IActionResult> Create([Bind("Design_Id,Design_VehicleSeatId,Design_CentralDesignId,Design_LateralDesignId,Design_ImageId,Design_Status")] Design design)
         {
             if (ModelState.IsValid)
             {
@@ -71,9 +71,9 @@ namespace SiteAsientos.Controllers
                 return RedirectToAction(nameof(Index));
             }
             ViewData["Design_CentralDesignId"] = new SelectList(_context.CentralDesign, "CentralDesign_Id", "CentralDesign_Id", design.Design_CentralDesignId);
-            ViewData["Design_ImageId"] = new SelectList(_context.Image, "Image_Id", "Image_Id", design.Design_ImageId);
+            ViewData["Design_ImageId"] = new SelectList(_context.Images, "Image_Id", "Image_Id", design.Design_ImageId);
             ViewData["Design_LateralDesignId"] = new SelectList(_context.LateralDesign, "LateralDesign_Id", "LateralDesign_Id", design.Design_LateralDesignId);
-            ViewData["Design_VehicleId"] = new SelectList(_context.Vehicle, "Vehicle_Id", "Vehicle_Brand", design.Design_VehicleId);
+            ViewData["Design_VehicleSeatId"] = new SelectList(_context.VehicleSeat, "VehicleSeat_Id", "VehicleSeat_Id", design.Design_VehicleSeatId);
             return View(design);
         }
 
@@ -91,9 +91,9 @@ namespace SiteAsientos.Controllers
                 return NotFound();
             }
             ViewData["Design_CentralDesignId"] = new SelectList(_context.CentralDesign, "CentralDesign_Id", "CentralDesign_Id", design.Design_CentralDesignId);
-            ViewData["Design_ImageId"] = new SelectList(_context.Image, "Image_Id", "Image_Id", design.Design_ImageId);
+            ViewData["Design_ImageId"] = new SelectList(_context.Images, "Image_Id", "Image_Id", design.Design_ImageId);
             ViewData["Design_LateralDesignId"] = new SelectList(_context.LateralDesign, "LateralDesign_Id", "LateralDesign_Id", design.Design_LateralDesignId);
-            ViewData["Design_VehicleId"] = new SelectList(_context.Vehicle, "Vehicle_Id", "Vehicle_Brand", design.Design_VehicleId);
+            ViewData["Design_VehicleSeatId"] = new SelectList(_context.VehicleSeat, "VehicleSeat_Id", "VehicleSeat_Id", design.Design_VehicleSeatId);
             return View(design);
         }
 
@@ -102,7 +102,7 @@ namespace SiteAsientos.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Design_Id,Design_VehicleId,Design_CentralDesignId,Design_LateralDesignId,Design_ImageId,Design_Status")] Design design)
+        public async Task<IActionResult> Edit(int id, [Bind("Design_Id,Design_VehicleSeatId,Design_CentralDesignId,Design_LateralDesignId,Design_ImageId,Design_Status")] Design design)
         {
             if (id != design.Design_Id)
             {
@@ -130,9 +130,9 @@ namespace SiteAsientos.Controllers
                 return RedirectToAction(nameof(Index));
             }
             ViewData["Design_CentralDesignId"] = new SelectList(_context.CentralDesign, "CentralDesign_Id", "CentralDesign_Id", design.Design_CentralDesignId);
-            ViewData["Design_ImageId"] = new SelectList(_context.Image, "Image_Id", "Image_Id", design.Design_ImageId);
+            ViewData["Design_ImageId"] = new SelectList(_context.Images, "Image_Id", "Image_Id", design.Design_ImageId);
             ViewData["Design_LateralDesignId"] = new SelectList(_context.LateralDesign, "LateralDesign_Id", "LateralDesign_Id", design.Design_LateralDesignId);
-            ViewData["Design_VehicleId"] = new SelectList(_context.Vehicle, "Vehicle_Id", "Vehicle_Brand", design.Design_VehicleId);
+            ViewData["Design_VehicleSeatId"] = new SelectList(_context.VehicleSeat, "VehicleSeat_Id", "VehicleSeat_Id", design.Design_VehicleSeatId);
             return View(design);
         }
 
@@ -148,7 +148,7 @@ namespace SiteAsientos.Controllers
                 .Include(d => d.CentralDesign)
                 .Include(d => d.Image)
                 .Include(d => d.LateralDesign)
-                .Include(d => d.Vehicle)
+                .Include(d => d.VehicleSeat)
                 .FirstOrDefaultAsync(m => m.Design_Id == id);
             if (design == null)
             {

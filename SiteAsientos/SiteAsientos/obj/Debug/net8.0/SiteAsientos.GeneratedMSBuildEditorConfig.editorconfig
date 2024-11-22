@@ -66,26 +66,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sb3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Design/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Design/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Design/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Design/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Design/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Employee/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -268,6 +248,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Shared/_Layout2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Shared/_Layout2Aside.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyQXNpZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Shared/_Layout2Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Shared/_Layout2Nav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyTmF2LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/josep/OneDrive/Documentos/GitHub/PAvanzadaPropuestaA/SiteAsientos/SiteAsientos/Views/Shared/_ValidationScriptsPartial.cshtml]

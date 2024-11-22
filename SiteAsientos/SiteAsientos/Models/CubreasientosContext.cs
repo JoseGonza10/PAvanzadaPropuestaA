@@ -24,7 +24,7 @@ public partial class CubreasientosContext : DbContext
 	public DbSet<VehicleSeat> VehicleSeat { get; set; }
 	public DbSet<LateralDesign> LateralDesign { get; set; }
 	public DbSet<CentralDesign> CentralDesign { get; set; }
-	public DbSet<Image> Image { get; set; }
+	public DbSet<Image> Images { get; set; }
 	public DbSet<Design> Design { get; set; }
 	public DbSet<Order> Orders { get; set; }
 	public DbSet<Supplier> Supplier { get; set; }

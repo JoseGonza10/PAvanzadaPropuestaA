@@ -76,7 +76,7 @@ namespace SiteAsientos.Controllers
         [AcceptVerbs("Get","Post")]
         public async Task<IActionResult> EmailExists(Supplier supplier)
         {
-            var existingSupplier = _context.Supplier.Where(x => x.Supplier_Email == supplier.Supplier_Email);
+            var existingSupplier = _context.Supplier.Where(x => x.Supplier_Email == supplier.Supplier_Email && x.Supplier_Id != supplier.Supplier_Id);
             if (existingSupplier.Any()) 
             {
                 return Json(false);
@@ -91,7 +91,7 @@ namespace SiteAsientos.Controllers
         [AcceptVerbs("Get", "Post")]
         public async Task<IActionResult> PhoneExists(Supplier supplier)
         {
-            var existingSupplier = _context.Supplier.Where(x => x.Supplier_Phone == supplier.Supplier_Phone);
+            var existingSupplier = _context.Supplier.Where(x => x.Supplier_Phone == supplier.Supplier_Phone && x.Supplier_Id != supplier.Supplier_Id);
             if (existingSupplier.Any())
             {
                 return Json(false);

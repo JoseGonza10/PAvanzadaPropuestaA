@@ -26,5 +26,7 @@ namespace SiteAsientos.Models
 
         [ForeignKey("VehicleSeat_SeatId")]
         public Seat Seat { get; set; }
+
+        public ICollection<Design> Designs { get; set; }
     }
 }

@@ -10,7 +10,7 @@ namespace SiteAsientos.Models
         public int Material_Id { get; set; }
 
         [Required, MaxLength(32)]
-        [Remote("MaterialExists", "Material", ErrorMessage = "Este material ya existe en el sistema")]
+        [Remote("MaterialExists", "Material",AdditionalFields = "Material_Id", HttpMethod = "POST", ErrorMessage = "Este material ya existe en el sistema")]
         [DisplayName("Material")]
         public string Material_Name { get; set; }
 

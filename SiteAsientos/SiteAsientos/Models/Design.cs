@@ -9,7 +9,7 @@ namespace SiteAsientos.Models
         public int Design_Id { get; set; }
 
         [Required]
-        public int Design_VehicleId { get; set; }
+        public int Design_VehicleSeatId { get; set; }
 
         [Required]
         public int Design_CentralDesignId { get; set; }
@@ -24,8 +24,11 @@ namespace SiteAsientos.Models
         public bool Design_Status { get; set; }
 
 
-        [ForeignKey("Design_VehicleId")]
-        public Vehicle Vehicle { get; set; }
+        //[ForeignKey("Design_VehicleId")]
+        //public Vehicle Vehicle { get; set; }
+
+        [ForeignKey("Design_VehicleSeatId")]
+        public VehicleSeat VehicleSeat { get; set; }
 
         [ForeignKey("Design_CentralDesignId")]
         public CentralDesign CentralDesign { get; set; }

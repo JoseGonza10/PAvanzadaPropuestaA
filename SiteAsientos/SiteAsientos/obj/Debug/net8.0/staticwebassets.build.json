@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tuJ23uE/3W4cQljJXdW/poREFyJ333OIDC2eqfRRZG8=",
+  "Hash": "RblTXEeesOPBWMXIA7xuksp+i4v+FmTvr4ffXYEzw/c=",
   "Source": "SiteAsientos",
   "BasePath": "_content/SiteAsientos",
   "Mode": "Default",
@@ -4311,12 +4311,12 @@
       "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\_badge-floating.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_accordion.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_accordion.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_accordion.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_accordion.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4327,15 +4327,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_accordion.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_accordion.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_alert.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_alert.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_alert.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_alert.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4346,15 +4346,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_alert.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_badge.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_badge.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_badge.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_badge.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4365,15 +4365,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_badge.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_badge.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_breadcrumb.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_breadcrumb.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_breadcrumb.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_breadcrumb.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4384,15 +4384,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_breadcrumb.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_button-group.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_button-group.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_button-group.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_button-group.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4403,15 +4403,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_button-group.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_button-group.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_buttons.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_buttons.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_buttons.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_buttons.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4422,15 +4422,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_buttons.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_card.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_card.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_card.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_card.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4441,15 +4441,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_card.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_card.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_carousel.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_carousel.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_carousel.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_carousel.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4460,15 +4460,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_carousel.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_carousel.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_close.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_close.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_close.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_close.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4479,15 +4479,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_close.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_close.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_containers.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_containers.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_containers.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_containers.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4498,15 +4498,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_containers.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_containers.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_dropdown.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_dropdown.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_dropdown.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_dropdown.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4517,15 +4517,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_dropdown.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_forms.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_forms.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_forms.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_forms.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4536,15 +4536,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_forms.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_functions.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_functions.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_functions.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_functions.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4555,15 +4555,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_functions.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_grid.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_grid.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_grid.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_grid.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4574,15 +4574,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_grid.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_helpers.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_helpers.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_helpers.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_helpers.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4593,15 +4593,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_helpers.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_helpers.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_images.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_images.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_images.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_images.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4612,15 +4612,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_images.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_images.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_list-group.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_list-group.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_list-group.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_list-group.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4631,15 +4631,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_list-group.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_mixins.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_mixins.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_mixins.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_mixins.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4650,15 +4650,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_mixins.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_modal.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_modal.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_modal.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_modal.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4669,15 +4669,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_modal.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_modal.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_nav.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_nav.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_nav.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_nav.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4688,15 +4688,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_nav.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_nav.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_navbar.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_navbar.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_navbar.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_navbar.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4707,15 +4707,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_navbar.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_offcanvas.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_offcanvas.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_offcanvas.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_offcanvas.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4726,15 +4726,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_offcanvas.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_offcanvas.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_pagination.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_pagination.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_pagination.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_pagination.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4745,15 +4745,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_pagination.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_placeholders.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_placeholders.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_placeholders.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_placeholders.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4764,15 +4764,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_placeholders.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_placeholders.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_popover.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_popover.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_popover.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_popover.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4783,15 +4783,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_popover.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_popover.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_progress.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_progress.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_progress.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_progress.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4802,15 +4802,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_progress.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_progress.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_reboot.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_reboot.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_reboot.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_reboot.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4821,15 +4821,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_reboot.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_root.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_root.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_root.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_root.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4840,15 +4840,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_root.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_root.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_spinners.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_spinners.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_spinners.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_spinners.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4859,15 +4859,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_spinners.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_spinners.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_tables.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_tables.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_tables.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_tables.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4878,15 +4878,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_tables.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_toasts.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_toasts.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_toasts.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_toasts.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4897,15 +4897,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_toasts.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_toasts.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_tooltip.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_tooltip.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_tooltip.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_tooltip.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4916,15 +4916,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_tooltip.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_tooltip.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_transitions.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_transitions.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_transitions.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_transitions.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4935,15 +4935,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_transitions.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_transitions.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_type.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_type.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_type.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_type.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4954,15 +4954,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_type.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_type.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_utilities.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_utilities.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_utilities.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_utilities.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4973,15 +4973,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_utilities.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_variables.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_variables.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/_variables.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/_variables.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4992,15 +4992,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_variables.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\bootstrap.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\bootstrap.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/bootstrap.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/bootstrap.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5011,15 +5011,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\bootstrap.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\bootstrap-grid.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/bootstrap-grid.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/bootstrap-grid.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5030,15 +5030,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\bootstrap-grid.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\bootstrap-reboot.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/bootstrap-reboot.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/bootstrap-reboot.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5049,15 +5049,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\bootstrap-reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\bootstrap-utilities.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/bootstrap-utilities.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/bootstrap-utilities.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5068,15 +5068,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\bootstrap-utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_floating-labels.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/forms/_floating-labels.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/forms/_floating-labels.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5087,15 +5087,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_floating-labels.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-check.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/forms/_form-check.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/forms/_form-check.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5106,15 +5106,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-check.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-control.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/forms/_form-control.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/forms/_form-control.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5125,15 +5125,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-control.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-range.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/forms/_form-range.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/forms/_form-range.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5144,15 +5144,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-range.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-select.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/forms/_form-select.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/forms/_form-select.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5163,15 +5163,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-select.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-text.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/forms/_form-text.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/forms/_form-text.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5182,15 +5182,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-text.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_input-group.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/forms/_input-group.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/forms/_input-group.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5201,15 +5201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_input-group.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_labels.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_labels.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/forms/_labels.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/forms/_labels.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5220,15 +5220,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_labels.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_labels.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_validation.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_validation.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/forms/_validation.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/forms/_validation.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5239,15 +5239,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_validation.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_validation.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_clearfix.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/helpers/_clearfix.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/helpers/_clearfix.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5258,15 +5258,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_colored-links.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/helpers/_colored-links.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/helpers/_colored-links.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5277,15 +5277,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_colored-links.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_position.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_position.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/helpers/_position.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/helpers/_position.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5296,15 +5296,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_position.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_position.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_ratio.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/helpers/_ratio.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/helpers/_ratio.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5315,15 +5315,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_ratio.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_stacks.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/helpers/_stacks.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/helpers/_stacks.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5334,15 +5334,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_stacks.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_stretched-link.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/helpers/_stretched-link.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/helpers/_stretched-link.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5353,15 +5353,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_stretched-link.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_text-truncation.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/helpers/_text-truncation.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/helpers/_text-truncation.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5372,15 +5372,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_text-truncation.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_visually-hidden.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/helpers/_visually-hidden.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/helpers/_visually-hidden.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5391,15 +5391,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_visually-hidden.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_vr.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/helpers/_vr.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/helpers/_vr.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5410,15 +5410,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_vr.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_alert.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_alert.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_alert.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5429,15 +5429,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_backdrop.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_backdrop.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_backdrop.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5448,15 +5448,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_backdrop.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_border-radius.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_border-radius.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_border-radius.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5467,15 +5467,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_border-radius.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_box-shadow.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_box-shadow.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_box-shadow.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5486,15 +5486,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_box-shadow.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_breakpoints.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_breakpoints.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_breakpoints.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5505,15 +5505,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_breakpoints.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_buttons.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_buttons.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_buttons.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5524,15 +5524,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_caret.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_caret.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_caret.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5543,15 +5543,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_caret.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_clearfix.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_clearfix.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_clearfix.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5562,15 +5562,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_color-scheme.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_color-scheme.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_color-scheme.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5581,15 +5581,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_color-scheme.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_container.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_container.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_container.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_container.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5600,15 +5600,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_container.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_container.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_deprecate.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_deprecate.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_deprecate.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5619,15 +5619,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_deprecate.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_forms.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_forms.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_forms.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5638,15 +5638,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_gradients.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_gradients.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_gradients.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5657,15 +5657,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_gradients.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_grid.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_grid.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_grid.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5676,15 +5676,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_image.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_image.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_image.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_image.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5695,15 +5695,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_image.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_image.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_list-group.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_list-group.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_list-group.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5714,15 +5714,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_lists.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_lists.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_lists.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5733,15 +5733,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_pagination.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_pagination.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_pagination.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5752,15 +5752,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_reset-text.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_reset-text.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_reset-text.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5771,15 +5771,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_reset-text.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_resize.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_resize.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_resize.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5790,15 +5790,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_resize.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_table-variants.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_table-variants.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_table-variants.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5809,15 +5809,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_table-variants.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_text-truncate.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_text-truncate.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_text-truncate.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5828,15 +5828,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_text-truncate.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_transition.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_transition.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_transition.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5847,15 +5847,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_transition.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_utilities.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_utilities.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_utilities.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5866,15 +5866,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_visually-hidden.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/mixins/_visually-hidden.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/mixins/_visually-hidden.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5885,15 +5885,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_visually-hidden.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\utilities\\_api.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\utilities\\_api.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/utilities/_api.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/utilities/_api.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5904,15 +5904,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\utilities\\_api.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\utilities\\_api.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\vendor\\_rfs.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/bootstrap/vendor/_rfs.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/bootstrap/vendor/_rfs.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5923,15 +5923,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\vendor\\_rfs.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-background.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-background.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/cards/card-background.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/card-background.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5942,15 +5942,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-background.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-background.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-blog.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-blog.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/cards/card-blog.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/card-blog.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5961,15 +5961,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-blog.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-blog.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-horizontal.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-horizontal.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/cards/card-horizontal.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/card-horizontal.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5980,15 +5980,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-horizontal.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-horizontal.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-pricing.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-pricing.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/cards/card-pricing.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/card-pricing.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5999,15 +5999,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-pricing.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-pricing.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-profile.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-profile.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/cards/card-profile.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/card-profile.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6018,15 +6018,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-profile.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-profile.scss"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-rotate.scss",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-rotate.scss",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "scss/materials-scss/material-dashboard/cards/card-rotate.scss",
+      "RelativePath": "scss/materials-scss/material-dashboard/badges/cards/card-rotate.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -6037,7 +6037,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-rotate.scss"
+      "OriginalItemSpec": "wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-rotate.scss"
     },
     {
       "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\custom\\_styles.scss",

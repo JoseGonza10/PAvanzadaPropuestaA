@@ -18,7 +18,7 @@ namespace SiteAsientos.Models
 
 
         public ICollection<VehicleSeat> VehicleSeats { get; set; }
-        public ICollection<Design> Designs { get; set; }
+        //public ICollection<Design> Designs { get; set; }
         public ICollection<Order> Orders { get; set; }
     }
 }

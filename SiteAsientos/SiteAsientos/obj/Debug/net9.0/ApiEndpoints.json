@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SiteAsientos.Controllers.AutorizadorController",
+    "Method": "Login",
+    "RelativePath": "api/Autorizador/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "SiteAsientos.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

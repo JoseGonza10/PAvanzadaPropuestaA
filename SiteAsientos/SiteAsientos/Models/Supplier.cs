@@ -26,7 +26,7 @@ namespace SiteAsientos.Models
 
         [Required, MaxLength(256)]
         [EmailAddress]
-        [Remote("EmailExists","Supplier",ErrorMessage = "Este correo electrónico ya se encuentra en uso")]
+        [Remote("EmailExists","Supplier", AdditionalFields = "Supplier_Id", HttpMethod = "POST", ErrorMessage = "Este correo electrónico ya se encuentra en uso")]
         [DisplayName("Correo Electrónico")]
         public string Supplier_Email { get; set; }
         [DisplayName("Fecha de Ingresión")]
