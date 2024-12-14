@@ -12,6 +12,7 @@ namespace SiteAsientos.Controllers
     public class VehicleController : Controller
     {
         private readonly CubreasientosContext _context;
+        private static List<BrandModelData> _carData;
 
         public VehicleController(CubreasientosContext context)
         {
@@ -45,7 +46,15 @@ namespace SiteAsientos.Controllers
         // GET: Vehicle/Create
         public IActionResult Create()
         {
-            return View();
+            var vm = new CarSelectionViewModel
+            {
+                Brands = _carData.Select(x => x.Brand).ToList()
+            }; 
+            VehicleAndFeatures vehicleAndFeatures = new VehicleAndFeatures();
+            vehicleAndFeatures.vechicle = new Vehicle();
+            vehicleAndFeatures.features = vm;
+
+            return View(vm); 
         }
 
         // POST: Vehicle/Create
@@ -151,6 +160,13 @@ namespace SiteAsientos.Controllers
         private bool VehicleExists(int id)
         {
             return _context.Vehicle.Any(e => e.Vehicle_Id == id);
+        }
+        // Esta acción devuelve modelos para una marca determinada a través de AJAX
+        [HttpGet]
+        public JsonResult GetModels(string brand)
+        {
+            var models = _carData.FirstOrDefault(x => x.Brand == brand)?.Models ?? new List<string>();
+            return Json(models);
         }
     }
 }
