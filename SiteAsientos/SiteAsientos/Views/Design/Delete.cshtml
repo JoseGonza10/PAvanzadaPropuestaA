@@ -13,34 +13,53 @@
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Design_Description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Design_Description)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Design_Color)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Design_Color)
+        </dd>
+        <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.Design_Status)
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Design_Status)
         </dd>
         <dt class = "col-sm-2">
+<<<<<<< Updated upstream
             @Html.DisplayNameFor(model => model.Vehicle)
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Vehicle.Vehicle_Brand)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.CentralDesign)
+=======
+            @Html.DisplayNameFor(model => model.Design_Price)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.CentralDesign.CentralDesign_Id)
+            @Html.DisplayFor(model => model.Design_Price)
+>>>>>>> Stashed changes
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.LateralDesign)
+            @Html.DisplayNameFor(model => model.Design_Taxable)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.LateralDesign.LateralDesign_Id)
+            @Html.DisplayFor(model => model.Design_Taxable)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Image)
+            @Html.DisplayNameFor(model => model.Design_Service)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Image.Image_Id)
+            @Html.DisplayFor(model => model.Design_Service)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Material)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Material.Material_Name)
         </dd>
     </dl>
     

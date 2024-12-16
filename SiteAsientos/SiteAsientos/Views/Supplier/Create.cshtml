@@ -3,15 +3,9 @@
 @{
     ViewData["Title"] = "Create";
     Layout = "~/Views/Shared/_Layout2.cshtml";
-    var HeaderTitle = "Crear Proveedor";
+    ViewBag.HeaderTitle = "Agregar un Proveedor";
 }
 
-@* <h1>Create</h1>
-
-<h4>Supplier</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
@@ -41,11 +35,12 @@
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-action="Index">Back to List</a>
             </div>
         </form>
-    </div>
-</div>
+    
 
+<<<<<<< Updated upstream
 <div>
     <a asp-action="Index">Back to List</a>
 </div> *@
@@ -106,3 +101,8 @@
             await Html.RenderPartialAsync("_ValidationScriptsPartial");
         }
     }
+=======
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+>>>>>>> Stashed changes

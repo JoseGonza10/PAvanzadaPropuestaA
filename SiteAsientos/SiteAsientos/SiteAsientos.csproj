@@ -29,4 +29,9 @@
     <Folder Include="Views\Dashboard\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\css\tractor-css\.DS_Store" />
+    <None Include="wwwroot\js\tractor-js\.DS_Store" />
+  </ItemGroup>
+
 </Project>

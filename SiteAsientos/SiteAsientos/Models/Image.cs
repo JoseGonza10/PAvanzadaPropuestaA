@@ -7,9 +7,12 @@ namespace SiteAsientos.Models
         [Key]
         public int Image_Id { get; set; }
 
-        public byte[] Image_Content { get; set; }
+        public byte[]? Image_Content { get; set; }
 
+        [Required]
+        public int? Image_DesignId { get; set; }
 
-        public ICollection<Design> Designs { get; set; }
+        //Relaciones
+        public Design? Design { get; set; }
     }
 }

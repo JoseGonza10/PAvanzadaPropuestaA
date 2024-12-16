@@ -14,19 +14,29 @@
     <thead>
         <tr>
             <th>
+                @Html.DisplayNameFor(model => model.Design_Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Design_Color)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.Design_Status)
             </th>
             <th>
+<<<<<<< Updated upstream
                 @Html.DisplayNameFor(model => model.Vehicle)
+=======
+                @Html.DisplayNameFor(model => model.Design_Price)
+>>>>>>> Stashed changes
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CentralDesign)
+                @Html.DisplayNameFor(model => model.Design_Taxable)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.LateralDesign)
+                @Html.DisplayNameFor(model => model.Design_Service)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Image)
+                @Html.DisplayNameFor(model => model.Material)
             </th>
             <th></th>
         </tr>
@@ -35,19 +45,29 @@
 @foreach (var item in Model) {
         <tr>
             <td>
+                @Html.DisplayFor(modelItem => item.Design_Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Design_Color)
+            </td>
+            <td>
                 @Html.DisplayFor(modelItem => item.Design_Status)
             </td>
             <td>
+<<<<<<< Updated upstream
                 @Html.DisplayFor(modelItem => item.Vehicle.Vehicle_Brand)
+=======
+                @Html.DisplayFor(modelItem => item.Design_Price)
+>>>>>>> Stashed changes
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.CentralDesign.CentralDesign_Id)
+                @Html.DisplayFor(modelItem => item.Design_Taxable)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.LateralDesign.LateralDesign_Id)
+                @Html.DisplayFor(modelItem => item.Design_Service)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Image.Image_Id)
+                @Html.DisplayFor(modelItem => item.Material.Material_Name)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Design_Id">Edit</a> |

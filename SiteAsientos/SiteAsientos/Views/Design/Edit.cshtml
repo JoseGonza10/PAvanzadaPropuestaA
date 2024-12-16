@@ -15,29 +15,45 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="Design_Id" />
             <div class="form-group">
+<<<<<<< Updated upstream
                 <label asp-for="Design_VehicleId" class="control-label"></label>
                 <select asp-for="Design_VehicleId" class="form-control" asp-items="ViewBag.Design_VehicleId"></select>
                 <span asp-validation-for="Design_VehicleId" class="text-danger"></span>
+=======
+                <label asp-for="Design_Description" class="control-label"></label>
+                <input asp-for="Design_Description" class="form-control" />
+                <span asp-validation-for="Design_Description" class="text-danger"></span>
+>>>>>>> Stashed changes
             </div>
             <div class="form-group">
-                <label asp-for="Design_CentralDesignId" class="control-label"></label>
-                <select asp-for="Design_CentralDesignId" class="form-control" asp-items="ViewBag.Design_CentralDesignId"></select>
-                <span asp-validation-for="Design_CentralDesignId" class="text-danger"></span>
+                <label asp-for="Design_MaterialId" class="control-label"></label>
+                <select asp-for="Design_MaterialId" class="form-control" asp-items="ViewBag.Design_MaterialId"></select>
+                <span asp-validation-for="Design_MaterialId" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Design_LateralDesignId" class="control-label"></label>
-                <select asp-for="Design_LateralDesignId" class="form-control" asp-items="ViewBag.Design_LateralDesignId"></select>
-                <span asp-validation-for="Design_LateralDesignId" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Design_ImageId" class="control-label"></label>
-                <select asp-for="Design_ImageId" class="form-control" asp-items="ViewBag.Design_ImageId"></select>
-                <span asp-validation-for="Design_ImageId" class="text-danger"></span>
+                <label asp-for="Design_Color" class="control-label"></label>
+                <input asp-for="Design_Color" class="form-control" />
+                <span asp-validation-for="Design_Color" class="text-danger"></span>
             </div>
             <div class="form-group form-check">
                 <label class="form-check-label">
                     <input class="form-check-input" asp-for="Design_Status" /> @Html.DisplayNameFor(model => model.Design_Status)
                 </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Design_Price" class="control-label"></label>
+                <input asp-for="Design_Price" class="form-control" />
+                <span asp-validation-for="Design_Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Design_Taxable" class="control-label"></label>
+                <input asp-for="Design_Taxable" class="form-control" />
+                <span asp-validation-for="Design_Taxable" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Design_Service" class="control-label"></label>
+                <input asp-for="Design_Service" class="form-control" />
+                <span asp-validation-for="Design_Service" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />

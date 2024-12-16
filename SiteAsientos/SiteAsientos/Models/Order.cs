@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel;
 
 namespace SiteAsientos.Models
 {
@@ -9,43 +10,52 @@ namespace SiteAsientos.Models
         public int Order_Id { get; set; }
 
         [Required, MaxLength(32)]
-        public string Order_Code { get; set; }
+        [DisplayName("Numero de Orden")]
+        public string? Order_Code { get; set; }
 
         [Required]
-        public DateTime Order_Date { get; set; }
+        [DisplayName("Fecha de Creación")]
+        public DateTime Order_Date { get; set; } = DateTime.Now;
 
-        [Required, MaxLength(128)]
-        public string Order_CustomerName { get; set; }
+        [Required(ErrorMessage = "Se requiere este campo"), MaxLength(128)]
+        [DisplayName("Cliente")]
+        public string? Order_CustomerName { get; set; }
 
-        [Required, MaxLength(32)]
-        public string Order_CustomerId { get; set; }
+        [Required(ErrorMessage = "Se requiere este campo"), MaxLength(32)]
+        [DisplayName("Cedula")]
+        public string? Order_CustomerId { get; set; }
 
-        [Required, MaxLength(32)]
-        public string Order_CustomerPhone { get; set; }
+        [Required(ErrorMessage = "Se requiere este campo"), MaxLength(32)]
+        [DisplayName("Telefono")]
+        public string? Order_CustomerPhone { get; set; }
 
-        [Required, MaxLength(256)]
-        public string Order_CustomerEmail { get; set; }
+        [Required(ErrorMessage = "Se requiere este campo"), MaxLength(256)]
+        [DisplayName("Correo Electrónico")]
+        public string? Order_CustomerEmail { get; set; }
 
-        [Required]
-        public int Order_CustomerCar { get; set; }
+        [DisplayName("Marca")]
+        public string? Order_CarBrand { get; set; }
+        [DisplayName("Modelo")]
+        public string? Order_CarModel { get; set; }
+        [DisplayName("Año de Modelo")]
+        public string? Order_ModelYear { get; set; }
 
-        [Required, MaxLength(32)]
-        public string Order_CustomerPlateNumber { get; set; }
+        [Required(ErrorMessage = "Se requiere este campo"), MaxLength(32)]
+        [DisplayName("Numero de Placa")]
+        public string? Order_CustomerPlateNumber { get; set; }
 
-        public DateTime? Order_FirstVisitDate { get; set; }
+        [DisplayName("Diseño")]
+        public int? Order_DesignId { get; set; }
+        [DisplayName("Estado")]
+        public bool Order_Status { get; set; } = true;
+        [DisplayName("Bordado")]
+        public bool Order_Embroidery { get; set; } = false;
 
-        public DateTime? Order_SecondVisitDate { get; set; }
 
-        [Required]
-        public bool Order_Status { get; set; }
-
-        // Navegaciones
-        [ForeignKey("Order_CustomerCar")]
-        public Vehicle CustomerCar { get; set; }
-
-        public ICollection<Product> Products { get; set; }
-        public ICollection<Visit> Visits { get; set; }
-        public ICollection<Invoice> Invoices { get; set; }
+        //Relaciones
+        public Design? Design { get; set; }
+        public ICollection<Visit>? Visits { get; set; }
+        public Invoice? Invoice { get; set; }
     }
 
 }

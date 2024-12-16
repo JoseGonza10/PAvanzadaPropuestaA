@@ -22,9 +22,7 @@ namespace SiteAsientos.Controllers
         // GET: Supplier
         public async Task<IActionResult> Index()
         {
-            var Supplier = new List<Supplier>();
-            Supplier = await _context.Supplier.ToListAsync();
-            return View(Supplier);
+            return View(await _context.Supplier.ToListAsync());
         }
 
         // GET: Supplier/Details/5
@@ -47,7 +45,7 @@ namespace SiteAsientos.Controllers
 
         // GET: Supplier/Create
         public IActionResult Create()
-        {  
+        {
             return View();
         }
 
@@ -56,10 +54,8 @@ namespace SiteAsientos.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Supplier_Id,Supplier_Name,Supplier_Address,Supplier_Phone,Supplier_Email,Supplier_Status")] Supplier supplier)
+        public async Task<IActionResult> Create([Bind("Supplier_Id,Supplier_Name,Supplier_Address,Supplier_Phone,Supplier_Email,Supplier_DateAdded,Supplier_Status")] Supplier supplier)
         {
-            //Para inicializar la fecha de entrada
-            supplier.Supplier_DateAdded = DateTime.Now;
             if (ModelState.IsValid)
             {
                 _context.Add(supplier);
@@ -69,6 +65,7 @@ namespace SiteAsientos.Controllers
             return View(supplier);
         }
 
+<<<<<<< Updated upstream
         //Verifica si el correo existe
         [AllowAnonymous]
         [AcceptVerbs("Get","Post")]
@@ -101,6 +98,8 @@ namespace SiteAsientos.Controllers
         }
 
 
+=======
+>>>>>>> Stashed changes
         // GET: Supplier/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -134,7 +133,6 @@ namespace SiteAsientos.Controllers
                 try
                 {
                     _context.Update(supplier);
-                    _context.Entry(supplier).Property(x => x.Supplier_DateAdded).IsModified = false;
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
@@ -189,6 +187,37 @@ namespace SiteAsientos.Controllers
         private bool SupplierExists(int id)
         {
             return _context.Supplier.Any(e => e.Supplier_Id == id);
+        }
+
+        //Verifica si el correo existe
+        [AllowAnonymous]
+        [AcceptVerbs("Get", "Post")]
+        public async Task<IActionResult> EmailExists(Supplier supplier)
+        {
+            var existingSupplier = _context.Supplier.Where(x => x.Supplier_Email == supplier.Supplier_Email && x.Supplier_Id != supplier.Supplier_Id);
+            if (existingSupplier.Any())
+            {
+                return Json(false);
+            }
+            else
+            {
+                return Json(true);
+            }
+        }
+        //Verifica si el telefono existe
+        [AllowAnonymous]
+        [AcceptVerbs("Get", "Post")]
+        public async Task<IActionResult> PhoneExists(Supplier supplier)
+        {
+            var existingSupplier = _context.Supplier.Where(x => x.Supplier_Phone == supplier.Supplier_Phone && x.Supplier_Id != supplier.Supplier_Id);
+            if (existingSupplier.Any())
+            {
+                return Json(false);
+            }
+            else
+            {
+                return Json(true);
+            }
         }
     }
 }

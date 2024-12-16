@@ -3,10 +3,9 @@
 @{
     ViewData["Title"] = "Edit";
     Layout = "~/Views/Shared/_Layout2.cshtml";
-    var HeaderTitle = "Editar Material";
 }
 
-@* <h1>Edit</h1>
+<h1>Edit</h1>
 
 <h4>Material</h4>
 <hr />
@@ -26,6 +25,11 @@
                 </label>
             </div>
             <div class="form-group">
+                <label asp-for="Material_SupplierId" class="control-label"></label>
+                <select asp-for="Material_SupplierId" class="form-control" asp-items="ViewBag.Material_SupplierId"></select>
+                <span asp-validation-for="Material_SupplierId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
             </div>
         </form>
@@ -34,6 +38,7 @@
 
 <div>
     <a asp-action="Index">Back to List</a>
+<<<<<<< Updated upstream
 </div> *@
 
 <div class="row">
@@ -69,10 +74,10 @@
                 </div>
         </div>
     </div>
+=======
+>>>>>>> Stashed changes
 </div>
 
-    @section Scripts {
-        @{
-            await Html.RenderPartialAsync("_ValidationScriptsPartial");
-        }
-    }
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

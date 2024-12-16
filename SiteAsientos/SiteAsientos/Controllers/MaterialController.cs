@@ -23,7 +23,8 @@ namespace SiteAsientos.Controllers
         // GET: Material
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Material.ToListAsync());
+            var cubreasientosContext = _context.Material.Include(m => m.Supplier);
+            return View(await cubreasientosContext.ToListAsync());
         }
 
         // GET: Material/Details/5
@@ -35,6 +36,7 @@ namespace SiteAsientos.Controllers
             }
 
             var material = await _context.Material
+                .Include(m => m.Supplier)
                 .FirstOrDefaultAsync(m => m.Material_Id == id);
             if (material == null)
             {
@@ -47,6 +49,7 @@ namespace SiteAsientos.Controllers
         // GET: Material/Create
         public IActionResult Create()
         {
+            ViewData["Material_SupplierId"] = new SelectList(_context.Supplier, "Supplier_Id", "Supplier_Address");
             return View();
         }
 
@@ -55,7 +58,7 @@ namespace SiteAsientos.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Material_Id,Material_Name,Material_Status")] Material material)
+        public async Task<IActionResult> Create([Bind("Material_Id,Material_Name,Material_Status,Material_SupplierId")] Material material)
         {
             if (ModelState.IsValid)
             {
@@ -63,9 +66,11 @@ namespace SiteAsientos.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["Material_SupplierId"] = new SelectList(_context.Supplier, "Supplier_Id", "Supplier_Address", material.Material_SupplierId);
             return View(material);
         }
 
+<<<<<<< Updated upstream
         //Verifica la existencia del nombre del material
         [AllowAnonymous]
         [AcceptVerbs("Get", "Post")]
@@ -107,6 +112,8 @@ namespace SiteAsientos.Controllers
 
         }
 
+=======
+>>>>>>> Stashed changes
         // GET: Material/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -120,6 +127,7 @@ namespace SiteAsientos.Controllers
             {
                 return NotFound();
             }
+            ViewData["Material_SupplierId"] = new SelectList(_context.Supplier, "Supplier_Id", "Supplier_Address", material.Material_SupplierId);
             return View(material);
         }
 
@@ -128,7 +136,7 @@ namespace SiteAsientos.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Material_Id,Material_Name,Material_Status")] Material material)
+        public async Task<IActionResult> Edit(int id, [Bind("Material_Id,Material_Name,Material_Status,Material_SupplierId")] Material material)
         {
             if (id != material.Material_Id)
             {
@@ -155,6 +163,7 @@ namespace SiteAsientos.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["Material_SupplierId"] = new SelectList(_context.Supplier, "Supplier_Id", "Supplier_Address", material.Material_SupplierId);
             return View(material);
         }
 
@@ -167,6 +176,7 @@ namespace SiteAsientos.Controllers
             }
 
             var material = await _context.Material
+                .Include(m => m.Supplier)
                 .FirstOrDefaultAsync(m => m.Material_Id == id);
             if (material == null)
             {
@@ -196,6 +206,22 @@ namespace SiteAsientos.Controllers
             return _context.Material.Any(e => e.Material_Id == id);
         }
 
+        //Verifica la existencia del nombre del material
+        [AllowAnonymous]
+        [AcceptVerbs("Get", "Post")]
+        public async Task<IActionResult> MaterialExists(Material material)
+        {
+            Debug.WriteLine("El id es" + material.Material_Id);
+            var existingMaterial = _context.Material.Where(x => x.Material_Name == material.Material_Name && x.Material_Id != material.Material_Id);
+            if (existingMaterial.Any())
+            {
+                return Json(false);
+            }
+            else
+            {
+                return Json(true);
+            }
+        }
 
     }
 }
