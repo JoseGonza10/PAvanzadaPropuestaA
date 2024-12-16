@@ -69,51 +69,6 @@ namespace SiteAsientos.Controllers
             ViewData["Material_SupplierId"] = new SelectList(_context.Supplier, "Supplier_Id", "Supplier_Address", material.Material_SupplierId);
             return View(material);
         }
-
-<<<<<<< Updated upstream
-        //Verifica la existencia del nombre del material
-        [AllowAnonymous]
-        [AcceptVerbs("Get", "Post")]
-        public async Task<IActionResult> MaterialExists(Material material)
-        {
-            Debug.WriteLine("El id es" + material.Material_Id);
-            var existingMaterial = _context.Material.Where(x => x.Material_Name == material.Material_Name);
-            if (existingMaterial.Any())
-            {
-                return Json(false);
-            }
-            else
-            {
-                return Json(true);
-            }
-        }
-
-        public bool UniqueMaterial(int id, string name)
-        {
-            bool flag = true;
-            if (id == 0)
-            {
-                flag = false;
-            }
-            else
-            {
-                var referencedMaterial = _context.Material.First(x => x.Material_Id == id);
-                var existingMaterials = _context.Material.Where(x => x.Material_Name == name && x.Material_Id != id);
-                if (referencedMaterial.Material_Name == name || !existingMaterials.Any())
-                {
-                    flag = false;
-                }
-                else
-                {
-                    flag = true;
-                }
-            }
-            return flag;
-
-        }
-
-=======
->>>>>>> Stashed changes
         // GET: Material/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {

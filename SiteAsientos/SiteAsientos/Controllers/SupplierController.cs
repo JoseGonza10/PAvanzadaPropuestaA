@@ -64,42 +64,6 @@ namespace SiteAsientos.Controllers
             }
             return View(supplier);
         }
-
-<<<<<<< Updated upstream
-        //Verifica si el correo existe
-        [AllowAnonymous]
-        [AcceptVerbs("Get","Post")]
-        public async Task<IActionResult> EmailExists(Supplier supplier)
-        {
-            var existingSupplier = _context.Supplier.Where(x => x.Supplier_Email == supplier.Supplier_Email);
-            if (existingSupplier.Any()) 
-            {
-                return Json(false);
-            }
-            else 
-            {
-                return Json(true);
-            }
-        }
-        //Verifica si el telefono existe
-        [AllowAnonymous]
-        [AcceptVerbs("Get", "Post")]
-        public async Task<IActionResult> PhoneExists(Supplier supplier)
-        {
-            var existingSupplier = _context.Supplier.Where(x => x.Supplier_Phone == supplier.Supplier_Phone);
-            if (existingSupplier.Any())
-            {
-                return Json(false);
-            }
-            else
-            {
-                return Json(true);
-            }
-        }
-
-
-=======
->>>>>>> Stashed changes
         // GET: Supplier/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {

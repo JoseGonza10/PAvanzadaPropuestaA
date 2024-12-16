@@ -9,14 +9,10 @@ namespace SiteAsientos.Models
         [Key]
         public int Design_Id { get; set; }
 
-<<<<<<< Updated upstream
-        [Required]
-        public int Design_VehicleId { get; set; }
-=======
+
         [Required(ErrorMessage = "Se requiere este campo")]
         [DisplayName("Descripción")]
         public string? Design_Description { get; set; }
->>>>>>> Stashed changes
 
         [DisplayName("Material")]
         public int? Design_MaterialId { get; set; }
@@ -34,17 +30,12 @@ namespace SiteAsientos.Models
         [DisplayName("Impuesto")]
         public float Design_Taxable { get; set; }
 
-<<<<<<< Updated upstream
-        [ForeignKey("Design_VehicleId")]
-        public Vehicle Vehicle { get; set; }
-=======
         [DisplayName("Servicio")]
         public string? Design_Service {  get; set; }
 
         //Relaciones
         public Material? Material { get; set; }
         public ICollection<Image>? Images { get; set; }
->>>>>>> Stashed changes
 
         public ICollection<Order>? Orders { get; set; }
     }

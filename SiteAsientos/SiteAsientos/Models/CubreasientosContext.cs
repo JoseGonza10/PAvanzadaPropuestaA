@@ -13,29 +13,15 @@ public partial class CubreasientosContext : DbContext
     }
 
 	// DbSets para cada entidad
-	public DbSet<Employee> Employees { get; set; }
+	public DbSet<Employee> Employee { get; set; }
 	public DbSet<Material> Material { get; set; }
-<<<<<<< Updated upstream
-	public DbSet<Color> Colors { get; set; }
-	public DbSet<Vehicle> Vehicles { get; set; }
-	public DbSet<Seat> Seats { get; set; }
-	public DbSet<VehicleSeat> VehicleSeats { get; set; }
-	public DbSet<LateralDesign> LateralDesigns { get; set; }
-	public DbSet<CentralDesign> CentralDesigns { get; set; }
-=======
->>>>>>> Stashed changes
-	public DbSet<Image> Images { get; set; }
-	public DbSet<Design> Designs { get; set; }
-	public DbSet<Order> Orders { get; set; }
+
+	public DbSet<Image> Image { get; set; }
+	public DbSet<Design> Design { get; set; }
+	public DbSet<Order> Order { get; set; }
 	public DbSet<Supplier> Supplier { get; set; }
-<<<<<<< Updated upstream
-	public DbSet<Product> Products { get; set; }
-	public DbSet<Visit> Visits { get; set; }
-	public DbSet<Invoice> Invoices { get; set; }
-=======
 	public DbSet<Visit> Visit { get; set; }
 	public DbSet<Invoice> Invoice { get; set; }
->>>>>>> Stashed changes
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

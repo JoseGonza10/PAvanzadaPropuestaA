@@ -513,20 +513,12 @@
       "PackagePath": "staticwebassets\\img\\materials-img\\vr-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-admin.png",
-      "PackagePath": "staticwebassets\\img\\project-img\\img-admin.png"
-    },
-    {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-material.png",
       "PackagePath": "staticwebassets\\img\\project-img\\img-material.png"
     },
     {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-supplier.png",
       "PackagePath": "staticwebassets\\img\\project-img\\img-supplier.png"
-    },
-    {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-user.png",
-      "PackagePath": "staticwebassets\\img\\project-img\\img-user.png"
     },
     {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\tractor-img\\about-img.png",
@@ -1125,368 +1117,368 @@
       "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_accordion.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_accordion.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_alert.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_alert.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_badge.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_badge.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_breadcrumb.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_breadcrumb.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_button-group.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_button-group.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_buttons.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_buttons.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_card.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_card.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_carousel.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_carousel.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_close.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_close.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_containers.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_containers.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_containers.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_dropdown.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_dropdown.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_forms.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_forms.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_functions.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_functions.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_grid.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_grid.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_helpers.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_helpers.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_helpers.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_images.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_images.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_list-group.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_list-group.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_mixins.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_mixins.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_modal.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_modal.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_nav.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_nav.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_navbar.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_navbar.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_offcanvas.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_offcanvas.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_offcanvas.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_pagination.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_pagination.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_placeholders.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_placeholders.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_placeholders.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_popover.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_popover.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_progress.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_progress.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_reboot.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_reboot.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_root.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_root.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_spinners.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_spinners.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_tables.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_tables.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_toasts.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_toasts.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_tooltip.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_tooltip.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_transitions.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_transitions.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_type.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_type.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_utilities.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_utilities.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_variables.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\_variables.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\bootstrap-grid.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\bootstrap-grid.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\bootstrap-reboot.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\bootstrap-reboot.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\bootstrap-utilities.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\bootstrap-utilities.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\bootstrap.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\bootstrap.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_floating-labels.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_floating-labels.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-check.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-check.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-control.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-control.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-range.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-range.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-select.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-select.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-text.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_form-text.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_input-group.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_input-group.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_labels.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_labels.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_labels.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_validation.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\forms\\_validation.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\forms\\_validation.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_clearfix.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_clearfix.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_colored-links.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_colored-links.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_position.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_position.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_ratio.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_ratio.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_stacks.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_stacks.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_stretched-link.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_stretched-link.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_text-truncation.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_text-truncation.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_visually-hidden.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_visually-hidden.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_vr.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\helpers\\_vr.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_alert.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_alert.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_backdrop.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_backdrop.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_border-radius.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_border-radius.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_box-shadow.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_box-shadow.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_breakpoints.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_breakpoints.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_buttons.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_buttons.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_caret.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_caret.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_clearfix.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_clearfix.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_color-scheme.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_color-scheme.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_container.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_container.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_container.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_deprecate.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_deprecate.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_forms.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_forms.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_gradients.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_gradients.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_grid.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_grid.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_image.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_image.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_list-group.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_list-group.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_lists.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_lists.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_pagination.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_pagination.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_reset-text.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_reset-text.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_resize.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_resize.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_table-variants.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_table-variants.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_text-truncate.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_text-truncate.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_transition.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_transition.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_utilities.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_utilities.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_visually-hidden.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\mixins\\_visually-hidden.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\utilities\\_api.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\utilities\\_api.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\utilities\\_api.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\vendor\\_rfs.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\bootstrap\\vendor\\_rfs.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-background.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-background.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\cards\\card-background.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-blog.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-blog.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-blog.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\cards\\card-blog.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-horizontal.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-horizontal.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-horizontal.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\cards\\card-horizontal.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-pricing.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-pricing.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-pricing.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\cards\\card-pricing.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-profile.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-profile.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-profile.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\cards\\card-profile.scss"
     },
     {
-      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-rotate.scss",
-      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\badges\\cards\\card-rotate.scss"
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\cards\\card-rotate.scss",
+      "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\cards\\card-rotate.scss"
     },
     {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\custom\\_styles.scss",

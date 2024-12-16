@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SiteAsientos.bundle.scp.css",
-      "PackagePath": "staticwebassets\\SiteAsientos.bundle.scp.css"
+      "PackagePath": "staticwebassets\\SiteAsientos.llxbb3ft20.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\materials-css\\material-dashboard.css",
@@ -27,6 +27,110 @@
     {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\default-skin.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\default-skin.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\tractor-css\\style.css",
+      "PackagePath": "staticwebassets\\css\\tractor-css\\style.css"
     },
     {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\favicon.ico",
@@ -417,6 +521,58 @@
       "PackagePath": "staticwebassets\\img\\project-img\\img-supplier.png"
     },
     {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\tractor-img\\about-img.png",
+      "PackagePath": "staticwebassets\\img\\tractor-img\\about-img.png"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\tractor-img\\banner-bg.png",
+      "PackagePath": "staticwebassets\\img\\tractor-img\\banner-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\tractor-img\\banner-img.png",
+      "PackagePath": "staticwebassets\\img\\tractor-img\\banner-img.png"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\tractor-img\\client-img1.png",
+      "PackagePath": "staticwebassets\\img\\tractor-img\\client-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\tractor-img\\client-img2.png",
+      "PackagePath": "staticwebassets\\img\\tractor-img\\client-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\tractor-img\\icon-1.png",
+      "PackagePath": "staticwebassets\\img\\tractor-img\\icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\tractor-img\\icon-2.png",
+      "PackagePath": "staticwebassets\\img\\tractor-img\\icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\tractor-img\\icon-3.png",
+      "PackagePath": "staticwebassets\\img\\tractor-img\\icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\tractor-img\\img-1.png",
+      "PackagePath": "staticwebassets\\img\\tractor-img\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\tractor-img\\img-2.png",
+      "PackagePath": "staticwebassets\\img\\tractor-img\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\tractor-img\\img-3.png",
+      "PackagePath": "staticwebassets\\img\\tractor-img\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\tractor-img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\tractor-img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\tractor-img\\quick-icon.png",
+      "PackagePath": "staticwebassets\\img\\tractor-img\\quick-icon.png"
+    },
+    {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\materials-js\\core\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\materials-js\\core\\bootstrap.bundle.min.js"
     },
@@ -471,6 +627,74 @@
     {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\modernizer.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\tractor-js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\js\\tractor-js\\slider-setting.js"
     },
     {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -1539,6 +1763,10 @@
     {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\scss\\materials-scss\\material-dashboard\\variables\\_virtual-reality.scss",
       "PackagePath": "staticwebassets\\scss\\materials-scss\\material-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SiteAsientos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SiteAsientos.Microsoft.AspNetCore.StaticWebAssets.props",

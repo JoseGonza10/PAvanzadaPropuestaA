@@ -21,11 +21,7 @@ namespace SiteAsientos.Controllers
         // GET: Design
         public async Task<IActionResult> Index()
         {
-<<<<<<< Updated upstream
-            var cubreasientosContext = _context.Designs.Include(d => d.CentralDesign).Include(d => d.Image).Include(d => d.LateralDesign).Include(d => d.Vehicle);
-=======
             var cubreasientosContext = _context.Design.Include(d => d.Material);
->>>>>>> Stashed changes
             return View(await cubreasientosContext.ToListAsync());
         }
 
@@ -36,17 +32,8 @@ namespace SiteAsientos.Controllers
             {
                 return NotFound();
             }
-
-<<<<<<< Updated upstream
-            var design = await _context.Designs
-                .Include(d => d.CentralDesign)
-                .Include(d => d.Image)
-                .Include(d => d.LateralDesign)
-                .Include(d => d.Vehicle)
-=======
             var design = await _context.Design
                 .Include(d => d.Material)
->>>>>>> Stashed changes
                 .FirstOrDefaultAsync(m => m.Design_Id == id);
             if (design == null)
             {
@@ -59,14 +46,8 @@ namespace SiteAsientos.Controllers
         // GET: Design/Create
         public IActionResult Create()
         {
-<<<<<<< Updated upstream
-            ViewData["Design_CentralDesignId"] = new SelectList(_context.CentralDesigns, "CentralDesign_Id", "CentralDesign_Id");
-            ViewData["Design_ImageId"] = new SelectList(_context.Images, "Image_Id", "Image_Id");
-            ViewData["Design_LateralDesignId"] = new SelectList(_context.LateralDesigns, "LateralDesign_Id", "LateralDesign_Id");
-            ViewData["Design_VehicleId"] = new SelectList(_context.Vehicles, "Vehicle_Id", "Vehicle_Brand");
-=======
+
             ViewData["Design_MaterialId"] = new SelectList(_context.Material, "Material_Id", "Material_Name");
->>>>>>> Stashed changes
             return View();
         }
 
@@ -75,11 +56,7 @@ namespace SiteAsientos.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-<<<<<<< Updated upstream
-        public async Task<IActionResult> Create([Bind("Design_Id,Design_VehicleId,Design_CentralDesignId,Design_LateralDesignId,Design_ImageId,Design_Status")] Design design)
-=======
         public async Task<IActionResult> Create([Bind("Design_Id,Design_Description,Design_MaterialId,Design_Color,Design_Status,Design_Price,Design_Taxable,Design_Service")] Design design)
->>>>>>> Stashed changes
         {
             if (ModelState.IsValid)
             {
@@ -87,14 +64,7 @@ namespace SiteAsientos.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-<<<<<<< Updated upstream
-            ViewData["Design_CentralDesignId"] = new SelectList(_context.CentralDesigns, "CentralDesign_Id", "CentralDesign_Id", design.Design_CentralDesignId);
-            ViewData["Design_ImageId"] = new SelectList(_context.Images, "Image_Id", "Image_Id", design.Design_ImageId);
-            ViewData["Design_LateralDesignId"] = new SelectList(_context.LateralDesigns, "LateralDesign_Id", "LateralDesign_Id", design.Design_LateralDesignId);
-            ViewData["Design_VehicleId"] = new SelectList(_context.Vehicles, "Vehicle_Id", "Vehicle_Brand", design.Design_VehicleId);
-=======
             ViewData["Design_MaterialId"] = new SelectList(_context.Material, "Material_Id", "Material_Name", design.Design_MaterialId);
->>>>>>> Stashed changes
             return View(design);
         }
 
@@ -106,19 +76,12 @@ namespace SiteAsientos.Controllers
                 return NotFound();
             }
 
-            var design = await _context.Designs.FindAsync(id);
+            var design = await _context.Design.FindAsync(id);
             if (design == null)
             {
                 return NotFound();
             }
-<<<<<<< Updated upstream
-            ViewData["Design_CentralDesignId"] = new SelectList(_context.CentralDesigns, "CentralDesign_Id", "CentralDesign_Id", design.Design_CentralDesignId);
-            ViewData["Design_ImageId"] = new SelectList(_context.Images, "Image_Id", "Image_Id", design.Design_ImageId);
-            ViewData["Design_LateralDesignId"] = new SelectList(_context.LateralDesigns, "LateralDesign_Id", "LateralDesign_Id", design.Design_LateralDesignId);
-            ViewData["Design_VehicleId"] = new SelectList(_context.Vehicles, "Vehicle_Id", "Vehicle_Brand", design.Design_VehicleId);
-=======
             ViewData["Design_MaterialId"] = new SelectList(_context.Material, "Material_Id", "Material_Name", design.Design_MaterialId);
->>>>>>> Stashed changes
             return View(design);
         }
 
@@ -127,11 +90,7 @@ namespace SiteAsientos.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-<<<<<<< Updated upstream
-        public async Task<IActionResult> Edit(int id, [Bind("Design_Id,Design_VehicleId,Design_CentralDesignId,Design_LateralDesignId,Design_ImageId,Design_Status")] Design design)
-=======
         public async Task<IActionResult> Edit(int id, [Bind("Design_Id,Design_Description,Design_MaterialId,Design_Color,Design_Status,Design_Price,Design_Taxable,Design_Service")] Design design)
->>>>>>> Stashed changes
         {
             if (id != design.Design_Id)
             {
@@ -158,14 +117,7 @@ namespace SiteAsientos.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-<<<<<<< Updated upstream
-            ViewData["Design_CentralDesignId"] = new SelectList(_context.CentralDesigns, "CentralDesign_Id", "CentralDesign_Id", design.Design_CentralDesignId);
-            ViewData["Design_ImageId"] = new SelectList(_context.Images, "Image_Id", "Image_Id", design.Design_ImageId);
-            ViewData["Design_LateralDesignId"] = new SelectList(_context.LateralDesigns, "LateralDesign_Id", "LateralDesign_Id", design.Design_LateralDesignId);
-            ViewData["Design_VehicleId"] = new SelectList(_context.Vehicles, "Vehicle_Id", "Vehicle_Brand", design.Design_VehicleId);
-=======
             ViewData["Design_MaterialId"] = new SelectList(_context.Material, "Material_Id", "Material_Name", design.Design_MaterialId);
->>>>>>> Stashed changes
             return View(design);
         }
 
@@ -176,17 +128,8 @@ namespace SiteAsientos.Controllers
             {
                 return NotFound();
             }
-
-<<<<<<< Updated upstream
-            var design = await _context.Designs
-                .Include(d => d.CentralDesign)
-                .Include(d => d.Image)
-                .Include(d => d.LateralDesign)
-                .Include(d => d.Vehicle)
-=======
             var design = await _context.Design
                 .Include(d => d.Material)
->>>>>>> Stashed changes
                 .FirstOrDefaultAsync(m => m.Design_Id == id);
             if (design == null)
             {
@@ -201,10 +144,10 @@ namespace SiteAsientos.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var design = await _context.Designs.FindAsync(id);
+            var design = await _context.Design.FindAsync(id);
             if (design != null)
             {
-                _context.Designs.Remove(design);
+                _context.Design.Remove(design);
             }
 
             await _context.SaveChangesAsync();
@@ -213,7 +156,7 @@ namespace SiteAsientos.Controllers
 
         private bool DesignExists(int id)
         {
-            return _context.Designs.Any(e => e.Design_Id == id);
+            return _context.Design.Any(e => e.Design_Id == id);
         }
     }
 }
