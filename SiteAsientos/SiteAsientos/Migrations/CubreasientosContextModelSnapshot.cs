@@ -127,7 +127,7 @@ namespace SiteAsientos.Migrations
 
                     b.HasIndex("Image_DesignId");
 
-                    b.ToTable("Images");
+                    b.ToTable("Image");
                 });
 
             modelBuilder.Entity("SiteAsientos.Models.Invoice", b =>
@@ -261,7 +261,7 @@ namespace SiteAsientos.Migrations
 
                     b.HasIndex("Order_DesignId");
 
-                    b.ToTable("Orders");
+                    b.ToTable("Order");
                 });
 
             modelBuilder.Entity("SiteAsientos.Models.Supplier", b =>
