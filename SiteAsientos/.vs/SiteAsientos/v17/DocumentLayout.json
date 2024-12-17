@@ -45,19 +45,6 @@
           "SelectedChildIndex": 52,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_diseno.cshtml",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_diseno.cshtml",
-              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Shared\\_diseno.cshtml",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_diseno.cshtml",
-              "RelativeToolTip": "SiteAsientos\\Views\\Shared\\_diseno.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T05:45:11.387Z",
-              "IsPinned": true
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
@@ -259,6 +246,20 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_diseno.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_diseno.cshtml",
+              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Shared\\_diseno.cshtml",
+              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_diseno.cshtml",
+              "RelativeToolTip": "SiteAsientos\\Views\\Shared\\_diseno.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T05:45:11.387Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Orders\\Create.cshtml",
@@ -267,7 +268,8 @@
               "RelativeToolTip": "SiteAsientos\\Views\\Orders\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T06:34:00.766Z"
+              "WhenOpened": "2024-12-17T06:34:00.766Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -277,7 +279,7 @@
               "RelativeDocumentMoniker": "SiteAsientos\\Controllers\\OrdersController.cs",
               "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "SiteAsientos\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T06:29:43.734Z",
               "EditorCaption": ""
@@ -292,7 +294,8 @@
               "RelativeToolTip": "SiteAsientos\\Views\\Plantilla\\Billing.cshtml",
               "ViewState": "AgIAAMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T06:21:19.932Z"
+              "WhenOpened": "2024-12-17T06:21:19.932Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -304,7 +307,8 @@
               "RelativeToolTip": "SiteAsientos\\Models\\Order.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T06:11:26.352Z"
+              "WhenOpened": "2024-12-17T06:11:26.352Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -316,7 +320,8 @@
               "RelativeToolTip": "SiteAsientos\\Models\\Invoice.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T06:09:30.728Z"
+              "WhenOpened": "2024-12-17T06:09:30.728Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -328,7 +333,8 @@
               "RelativeToolTip": "SiteAsientos\\Models\\Visit.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T06:10:35.555Z"
+              "WhenOpened": "2024-12-17T06:10:35.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -340,7 +346,8 @@
               "RelativeToolTip": "SiteAsientos\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAhwBYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T05:45:03.76Z"
+              "WhenOpened": "2024-12-17T05:45:03.76Z",
+              "EditorCaption": ""
             }
           ]
         },

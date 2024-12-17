@@ -10,21 +10,21 @@ namespace SiteAsientos.Models
         [Key]
         public int Supplier_Id { get; set; }
 
-        [Required, MaxLength(32)]
+        [Required(ErrorMessage = "Se requiere este campo"), MaxLength(32)]
         [DisplayName("Nombre")]
         public string? Supplier_Name { get; set; }
 
-        [Required, MaxLength(256)]
+        [Required(ErrorMessage = "Se requiere este campo"), MaxLength(256)]
         [DisplayName("Dirección")]
         public string? Supplier_Address { get; set; }
 
-        [Required, MaxLength(8)]
+        [Required(ErrorMessage = "Se requiere este campo"), MaxLength(8)]
         [RegularExpression(@"^\d{8}$",ErrorMessage = "El numero de telefono es incorrecto")]
         [Remote("PhoneExists", "Supplier", AdditionalFields = "Supplier_Id", HttpMethod = "POST", ErrorMessage = "Este telefono ya esta siendo usado en otro proveedor")]
         [DisplayName("Telefono")]
         public string? Supplier_Phone { get; set; }
 
-        [Required, MaxLength(256)]
+        [Required(ErrorMessage = "Se requiere este campo"), MaxLength(256)]
         [EmailAddress]
         [Remote("EmailExists","Supplier", AdditionalFields = "Supplier_Id", HttpMethod = "POST",ErrorMessage = "Este correo electrónico ya se encuentra en uso")]
         [DisplayName("Correo Electrónico")]

@@ -10,6 +10,7 @@ using SiteAsientos.Models;
 
 namespace SiteAsientos.Controllers
 {
+    [Authorize(Roles = "Administrador,Empleado")]
     public class SupplierController : Controller
     {
         private readonly CubreasientosContext _context;

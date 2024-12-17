@@ -11,6 +11,7 @@ using SiteAsientos.Models;
 
 namespace SiteAsientos.Controllers
 {
+    [Authorize(Roles = "Administrador,Empleado")]
     public class MaterialController : Controller
     {
         private readonly CubreasientosContext _context;
@@ -77,11 +78,7 @@ namespace SiteAsientos.Controllers
         public async Task<IActionResult> Create()
         {
             // Carga de proveedores activos (suponiendo que existan y tengan un campo Supplier_Status)
-            ViewBag.Suppliers = await _context.Supplier
-                .Where(s => s.Supplier_Status == true)
-                .OrderBy(s => s.Supplier_Name)
-                .ToListAsync();
-
+            ViewData["SupplierId"] = new SelectList(_context.Supplier.Where(x => x.Supplier_Status != false), "Supplier_Id", "Supplier_Name");
             return View();
         }
 
@@ -90,42 +87,18 @@ namespace SiteAsientos.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        // POST: Material/Create 
-        public async Task<IActionResult> Create(Material model)
+
+        public async Task<IActionResult> Create([Bind("Material_Id,Material_Name,Material_Status,Material_SupplierId")] Material material)
         {
-            // Cargar la lista de proveedores en caso de error
-            ViewBag.Suppliers = await _context.Supplier
-                .Where(s => s.Supplier_Status == true)
-                .OrderBy(s => s.Supplier_Name)
-                .ToListAsync();
-
-            // Validaciones manuales adicionales (si se requiere)
-            if (model.Material_SupplierId == null)
+            if (ModelState.IsValid)
             {
-                ModelState.AddModelError("Material_SupplierId", "Debe seleccionar un proveedor.");
+                _context.Add(material);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
             }
+            return View(material);
+        }
 
-            if (!ModelState.IsValid)
-            {
-                return View(model);
-            }
-
-            // Verificamos la unicidad del nombre del material por seguridad (además del [Remote])
-            bool exists = await _context.Material.AnyAsync(m => m.Material_Name == model.Material_Name && m.Material_Id != model.Material_Id);
-            if (exists)
-            {
-                ModelState.AddModelError("Material_Name", "Este material ya existe en el sistema.");
-                return View(model);
-            }
-
-            _context.Material.Add(model);
-            await _context.SaveChangesAsync();
-
-            // Mensaje de éxito
-            TempData["SuccessMessage"] = "El material se ha creado correctamente.";
-
-            return RedirectToAction("Index");
-        } 
         // GET: Materials/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -135,11 +108,7 @@ namespace SiteAsientos.Controllers
             if (material == null) return NotFound();
 
             // Cargar proveedores
-            ViewBag.Suppliers = await _context.Supplier
-                .Where(s => s.Supplier_Status == true)
-                .OrderBy(s => s.Supplier_Name)
-                .ToListAsync();
-
+            ViewData["SupplierId"] = new SelectList(_context.Supplier.Where(x => x.Supplier_Status != false), "Supplier_Id", "Supplier_Name");
             return View(material);
         }
 
@@ -149,60 +118,34 @@ namespace SiteAsientos.Controllers
         // POST: Materials/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, Material model)
+        public async Task<IActionResult> Edit(int id, [Bind("Material_Id,Material_Name,Material_Status,Material_SupplierId")] Material material)
         {
-            if (id != model.Material_Id) return NotFound();
-
-            // Cargar proveedores en caso de error
-            ViewBag.Suppliers = await _context.Supplier
-                .Where(s => s.Supplier_Status == true)
-                .OrderBy(s => s.Supplier_Name)
-                .ToListAsync();
-
-            if (model.Material_SupplierId == null)
+            if (id != material.Material_Id)
             {
-                ModelState.AddModelError("Material_SupplierId", "Debe seleccionar un proveedor.");
+                return NotFound();
             }
 
-            if (!ModelState.IsValid)
+            if (ModelState.IsValid)
             {
-                return View(model);
-            }
-
-            // Verificación de unicidad del nombre
-            bool exists = await _context.Material.AnyAsync(m => m.Material_Name == model.Material_Name && m.Material_Id != model.Material_Id);
-            if (exists)
-            {
-                ModelState.AddModelError("Material_Name", "Este material ya existe en el sistema.");
-                return View(model);
-            }
-
-            var originalMaterial = await _context.Material.FindAsync(id);
-            if (originalMaterial == null) return NotFound();
-
-            // Actualizar campos
-            originalMaterial.Material_Name = model.Material_Name;
-            originalMaterial.Material_Status = model.Material_Status;
-            originalMaterial.Material_SupplierId = model.Material_SupplierId;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!await MaterialExists(id))
+                try
                 {
-                    return NotFound();
+                    _context.Update(material);
+                    await _context.SaveChangesAsync();
                 }
-                else
+                catch (DbUpdateConcurrencyException)
                 {
-                    throw;
+                    if (!MaterialExists(material.Material_Id).Result)
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
                 }
+                return RedirectToAction(nameof(Index));
             }
-
-            TempData["SuccessMessage"] = "El material se ha actualizado correctamente.";
-            return RedirectToAction("Index");
+            return View(material);
         }
 
         private async Task<bool> MaterialExists(int id)
@@ -250,9 +193,25 @@ namespace SiteAsientos.Controllers
             return RedirectToAction("Index");
         }
 
-      
+        //Verifica la existencia del nombre del material
+        [AllowAnonymous]
+        [AcceptVerbs("Get", "Post")]
+        public async Task<IActionResult> MaterialExists(Material material)
+        {
+            var existingMaterial = _context.Material.Where(x => x.Material_Name == material.Material_Name && x.Material_Id != material.Material_Id);
+            if (existingMaterial.Any())
+            {
+                return Json(false);
+            }
+            else
+            {
+                return Json(true);
+            }
+        }
 
-        
+
+
+
 
     }
 }
