@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json;
 using SiteAsientos.Models;
 
 namespace SiteAsientos.Controllers
@@ -17,6 +18,8 @@ namespace SiteAsientos.Controllers
         public VehicleController(CubreasientosContext context)
         {
             _context = context;
+            var json = System.IO.File.ReadAllText("wwwroot/data/brands.json");
+            _carData = JsonConvert.DeserializeObject<List<BrandModelData>>(json);
         }
 
         // GET: Vehicle
@@ -51,10 +54,11 @@ namespace SiteAsientos.Controllers
                 Brands = _carData.Select(x => x.Brand).ToList()
             }; 
             VehicleAndFeatures vehicleAndFeatures = new VehicleAndFeatures();
-            vehicleAndFeatures.vechicle = new Vehicle();
+            vehicleAndFeatures.vehicle = new Vehicle();
+            vehicleAndFeatures.vehicle.Vehicle_ModelYear = DateTime.Now.Year;
             vehicleAndFeatures.features = vm;
 
-            return View(vm); 
+            return View(vehicleAndFeatures); 
         }
 
         // POST: Vehicle/Create
@@ -62,15 +66,15 @@ namespace SiteAsientos.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Vehicle_Id,Vehicle_Brand,Vehicle_Model,Vehicle_ModelYear")] Vehicle vehicle)
+        public async Task<IActionResult> Create(VehicleAndFeatures composed)
         {
-            if (ModelState.IsValid)
+            if (!TryValidateModel(composed.vehicle, "Vehicle"))
             {
-                _context.Add(vehicle);
+                _context.Add(composed.vehicle);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(vehicle);
+            return View(composed.vehicle);
         }
 
         // GET: Vehicle/Edit/5
@@ -94,23 +98,23 @@ namespace SiteAsientos.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Vehicle_Id,Vehicle_Brand,Vehicle_Model,Vehicle_ModelYear")] Vehicle vehicle)
+        public async Task<IActionResult> Edit(VehicleAndFeatures composed)
         {
-            if (id != vehicle.Vehicle_Id)
-            {
-                return NotFound();
-            }
+            //if (id != composed.vechicle.Vehicle_Id)
+            //{
+            //    return NotFound();
+            //}
 
             if (ModelState.IsValid)
             {
                 try
                 {
-                    _context.Update(vehicle);
+                    _context.Update(composed.vehicle);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!VehicleExists(vehicle.Vehicle_Id))
+                    if (!VehicleExists(composed.vehicle.Vehicle_Id))
                     {
                         return NotFound();
                     }
@@ -121,7 +125,7 @@ namespace SiteAsientos.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(vehicle);
+            return View(composed);
         }
 
         // GET: Vehicle/Delete/5

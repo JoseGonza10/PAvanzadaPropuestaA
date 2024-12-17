@@ -5,55 +5,56 @@
     Layout = "~/Views/Shared/_Layout2.cshtml";
 }
 
-<h1>Create</h1>
-
-<h4>Vehicle</h4>
+<h1>Set up your Vehicle</h1>
 <hr />
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
            
             
-            <div class="form-group">
-                <label asp-for="Vehicle_Brand" class="control-label">Brand:</label>
-                <input asp-for="Vehicle_Brand" class="form-control" style="border:thin;"/>
-                <span asp-validation-for="Vehicle_Brand" class="text-danger"></span>
+                    <div class="input-group input-group-outline mb-4">
+                                                
+                        <select id="brandSelect" class="form-control" asp-for="@Model.features.SelectedBrand" asp-items="@(new SelectList(Model.features.Brands))">
+                            <option value="">-- Select Brand --</option>
+                        </select>
+                        <span asp-validation-for="@Model.features.SelectedBrand" class="text-danger"></span>
+                    </div>
 
-                <select id="brandSelect" asp-for="SelectedBrand" asp-for="" asp-items="@(new SelectList(Model.features.Brands))">
-                    <option value="">-- Select Brand --</option>
-                </select>
-            </div>
-            <label for="brandSelect">Brand:</label>
-           
+                    <div class="input-group input-group-outline mb-4">
+                       
+                        <select id="modelSelect" class="form-control"  asp-for="@Model.vehicle.Vehicle_Model">
+                            <option value="">-- Select Model --</option>
+                        </select>
+                        <span asp-validation-for="@Model.vehicle.Vehicle_Model" class="text-danger"></span>
+                    </div>
 
+                    <div class="input-group input-group-static mb-4">
+                        <label>Year</label> 
+                        
+                        <input class="form-control"
+                               asp-for="vehicle.Vehicle_ModelYear"
+                               type="number"
+                               min="1950"
+                               max="@DateTime.Now.Year"
+                               style="border:thin;" />
 
-            <div class="form-group">
-                <div>
-                    <label for="modelSelect">Model:</label>
-                    <select id="modelSelect" asp-for="SelectedModel" >
-                        <option value="">-- Select Model --</option>
-                    </select>
-                    <span asp-validation-for="Vehicle_Model" class="text-danger"></span>
-                </div>
-            </div>
+                        <span asp-validation-for="@Model.vehicle.Vehicle_ModelYear" class="text-danger"></span>
+                    </div>
 
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+        </form> 
+        <form asp-controller="Vehicle" asp-action="Index" method="get">
 
-            <div class="form-group">
-                <label asp-for="Vehicle_ModelYear" class="control-label"></label>
-                <input asp-for="Vehicle_ModelYear" class="form-control" style="border:thin;" />
-                <span asp-validation-for="Vehicle_ModelYear" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
-            </div>
+            <input type="submit" class="btn btn-secondary btn-sm active" role="button" aria-pressed="true" value="Back to List" />
         </form>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
+ 
+
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
@@ -62,9 +63,10 @@
         $(document).ready(function () {
             $('#brandSelect').change(function () {
                 var selectedBrand = $(this).val();
+                console.log()
                 if (selectedBrand) {
                     $.ajax({
-                        url: '@Url.Action("GetModels", "Cars")',
+                        url: "GetModels",
                         type: 'GET',
                         data: { brand: selectedBrand },
                         success: function (data) {

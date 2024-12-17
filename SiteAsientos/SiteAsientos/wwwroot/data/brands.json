@@ -1,0 +1,42 @@
+[
+  {
+    "Brand": "Toyota",
+    "Models": [ "Corolla", "Camry", "RAV4", "Prius" ]
+  },
+  {
+    "Brand": "Honda",
+    "Models": [ "Civic", "Accord", "CR-V", "Fit" ]
+  },
+  {
+    "Brand": "Ford",
+    "Models": [ "F-150", "Mustang", "Focus", "Escape" ]
+  },
+  {
+    "Brand": "Chevrolet",
+    "Models": [ "Silverado", "Malibu", "Equinox", "Impala" ]
+  },
+  {
+    "Brand": "Nissan",
+    "Models": [ "Altima", "Sentra", "Rogue", "Maxima" ]
+  },
+  {
+    "Brand": "BMW",
+    "Models": [ "3 Series", "5 Series", "X5", "X3" ]
+  },
+  {
+    "Brand": "Mercedes-Benz",
+    "Models": [ "C-Class", "E-Class", "GLC", "GLE" ]
+  },
+  {
+    "Brand": "Audi",
+    "Models": [ "A4", "A6", "Q5", "Q7" ]
+  },
+  {
+    "Brand": "Volkswagen",
+    "Models": [ "Golf", "Jetta", "Passat", "Tiguan" ]
+  },
+  {
+    "Brand": "Hyundai",
+    "Models": [ "Elantra", "Sonata", "Tucson", "Santa Fe" ]
+  }
+]

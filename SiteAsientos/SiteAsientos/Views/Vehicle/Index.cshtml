@@ -5,11 +5,13 @@
     Layout = "~/Views/Shared/_Layout2.cshtml";
 }
 
-<h1>Index</h1>
+<h1>Vehicle list</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+ 
+ 
+<form asp-controller="Vehicle" asp-action="Create" method="get">
+    <input type="submit" class="btn btn-primary" value="Create New" />
+</form>
 <table class="table">
     <thead>
         <tr>
