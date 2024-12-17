@@ -7,8 +7,7 @@ namespace SiteAsientos.Models
     public class Design
     {
         [Key]
-        public int Design_Id { get; set; }
-
+        public int Design_Id { get; set; } 
 
         [Required(ErrorMessage = "Se requiere este campo")]
         [DisplayName("Descripción")]
@@ -28,6 +27,7 @@ namespace SiteAsientos.Models
         public float Design_Price { get; set; }
 
         [DisplayName("Impuesto")]
+        [Required(ErrorMessage = "Se requiere este campo")]
         public float Design_Taxable { get; set; }
 
         [DisplayName("Servicio")]
