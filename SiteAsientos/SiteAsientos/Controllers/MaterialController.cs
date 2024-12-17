@@ -90,7 +90,7 @@ namespace SiteAsientos.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        // POST: Materials/Create 
+        // POST: Material/Create 
         public async Task<IActionResult> Create(Material model)
         {
             // Cargar la lista de proveedores en caso de error
