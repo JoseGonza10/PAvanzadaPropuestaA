@@ -25,5 +25,10 @@ namespace SiteAsientos.Controllers
         {
             return View();
         }
+
+        public IActionResult SignIn() 
+        {
+            return View();
+        }
     }
 }

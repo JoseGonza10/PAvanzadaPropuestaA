@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -9,6 +10,7 @@ using SiteAsientos.Models;
 
 namespace SiteAsientos.Controllers
 {
+    [Authorize(Roles ="Administrador")]
     public class EmployeeController : Controller
     {
         private readonly CubreasientosContext _context;
@@ -152,5 +154,37 @@ namespace SiteAsientos.Controllers
         {
             return _context.Employee.Any(e => e.Employee_Id == id);
         }
+
+        //Verifica si el correo existe
+        [AllowAnonymous]
+        [AcceptVerbs("Get", "Post")]
+        public async Task<IActionResult> EmailExists(Employee employee)
+        {
+            var existingEmployee = _context.Employee.Where(x => x.Employee_Email == employee.Employee_Email && x.Employee_Id != employee.Employee_Id);
+            if (existingEmployee.Any())
+            {
+                return Json(false);
+            }
+            else
+            {
+                return Json(true);
+            }
+        }
+        //Verifica si el telefono existe
+        [AllowAnonymous]
+        [AcceptVerbs("Get", "Post")]
+        public async Task<IActionResult> PhoneExists(Employee employee)
+        {
+            var existingEmployee = _context.Employee.Where(x => x.Employee_Phone == employee.Employee_Phone && x.Employee_Id != employee.Employee_Id);
+            if (existingEmployee.Any())
+            {
+                return Json(false);
+            }
+            else
+            {
+                return Json(true);
+            }
+        }
     }
+
 }

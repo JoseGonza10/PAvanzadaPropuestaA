@@ -271,8 +271,10 @@ wwwroot\img\materials-img\team-4.jpg
 wwwroot\img\materials-img\team-5.jpg
 wwwroot\img\materials-img\tesla-model-s.png
 wwwroot\img\materials-img\vr-bg.jpg
+wwwroot\img\project-img\img-admin.png
 wwwroot\img\project-img\img-material.png
 wwwroot\img\project-img\img-supplier.png
+wwwroot\img\project-img\img-user.png
 wwwroot\img\tractor-img\about-img.png
 wwwroot\img\tractor-img\banner-bg.png
 wwwroot\img\tractor-img\banner-img.png
