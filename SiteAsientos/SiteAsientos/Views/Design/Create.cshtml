@@ -15,7 +15,7 @@
                         <p class="card-category">Complete la información del nuevo diseño</p>
                     </div>
                     <div class="card-body">
-                        <form asp-action="Create" method="post" enctype="multipart/form-data">
+                        <form asp-action="Create" asp-controller="Design" method="post" enctype="multipart/form-data">
                             <div class="form-group">
                                 <label class="bmd-label-floating">Descripción</label>
                                 <input asp-for="Design_Description" class="form-control" />

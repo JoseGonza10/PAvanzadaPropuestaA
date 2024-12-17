@@ -5,5 +5,11 @@
         <div class="gallery_img"><img src="https://4knines.com/cdn/shop/files/FontSeatCover.webp?v=1722448467" alt="img-blur-shadow" class="img-fluid shadow border-radius-lg"></div>
         <h3 class="types_text">@Model.Design_Description</h3>
         <p class="looking_text">¢@Model.Design_Price</p>
+        <a class="looking_text"></a>
+
+
+        <a asp-controller="Orders" asp-action="Create?designId=@Model.Design_Id" >Seleccionar</a>
+
+
     </div>
 </div>
