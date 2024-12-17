@@ -11,6 +11,7 @@ using SiteAsientos.Models;
 
 namespace SiteAsientos.Controllers
 {
+    [Authorize(Roles = "Administrador,Empleado")]
     public class MaterialController : Controller
     {
         private readonly CubreasientosContext _context;
@@ -86,12 +87,8 @@ namespace SiteAsientos.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-<<<<<<< Updated upstream
-        // POST: Material/Create 
-        public async Task<IActionResult> Create(Material model)
-=======
+
         public async Task<IActionResult> Create([Bind("Material_Id,Material_Name,Material_Status,Material_SupplierId")] Material material)
->>>>>>> Stashed changes
         {
             if (ModelState.IsValid)
             {

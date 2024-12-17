@@ -275,6 +275,7 @@ wwwroot\img\project-img\img-admin.png
 wwwroot\img\project-img\img-material.png
 wwwroot\img\project-img\img-supplier.png
 wwwroot\img\project-img\img-user.png
+wwwroot\img\project-img\img-userProfile.png
 wwwroot\img\tractor-img\about-img.png
 wwwroot\img\tractor-img\banner-bg.png
 wwwroot\img\tractor-img\banner-img.png

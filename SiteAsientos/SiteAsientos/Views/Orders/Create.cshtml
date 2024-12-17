@@ -1,10 +1,10 @@
 ﻿@model SiteAsientos.Models.Order
 @{
     ViewData["Title"] = "Crear Orden";
-    Layout = "~/Views/Shared/_Layout2.cshtml";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<div class="content">
+@* <div class="content">
     <div class="container-fluid">
 
         @if (TempData["SuccessMessage"] != null)
@@ -30,32 +30,32 @@
 
                             <div class="form-group">
                                 <label class="bmd-label-floating">Cliente (Nombre Completo)</label>
-                                <input asp-for="Order_CustomerName" class="form-control" />
+                                <input asp-for="Order_CustomerName" class="mail_text" />
                                 <span asp-validation-for="Order_CustomerName" class="text-danger"></span>
                             </div>
 
                             <div class="form-group">
                                 <label class="bmd-label-floating">Cédula</label>
-                                <input asp-for="Order_CustomerId" class="form-control" />
+                                <input asp-for="Order_CustomerId" class="mail_text" />
                                 <span asp-validation-for="Order_CustomerId" class="text-danger"></span>
                             </div>
 
                             <div class="form-group">
                                 <label class="bmd-label-floating">Teléfono</label>
-                                <input asp-for="Order_CustomerPhone" class="form-control" />
+                                <input asp-for="Order_CustomerPhone" class="mail_text" />
                                 <span asp-validation-for="Order_CustomerPhone" class="text-danger"></span>
                             </div>
 
                             <div class="form-group">
                                 <label class="bmd-label-floating">Correo Electrónico</label>
-                                <input asp-for="Order_CustomerEmail" class="form-control" />
+                                <input asp-for="Order_CustomerEmail" class="mail_text" />
                                 <span asp-validation-for="Order_CustomerEmail" class="text-danger"></span>
                             </div>
 
                             <!-- Información del vehículo -->
                             <div class="form-group">
                                 <label>Marca del Vehículo</label>
-                                <select class="form-control" id="CarBrand" name="CarBrand">
+                                <select class="mail_text" id="CarBrand" name="CarBrand">
                                     <option value="">-- Seleccione --</option>
                                     @foreach (var brand in (List<string>)ViewBag.CarBrands)
                                     {
@@ -66,27 +66,27 @@
 
                             <div class="form-group">
                                 <label>Modelo del Vehículo</label>
-                                <select class="form-control" id="CarModel" name="CarModel">
+                                <select class="mail_text" id="CarModel" name="CarModel">
                                     <option value="">-- Seleccione la marca primero --</option>
                                 </select>
                             </div>
 
                             <div class="form-group">
                                 <label class="bmd-label-floating">Año del Modelo</label>
-                                <input asp-for="Order_ModelYear" class="form-control" />
+                                <input asp-for="Order_ModelYear" class="mail_text" />
                                 <span asp-validation-for="Order_ModelYear" class="text-danger"></span>
                             </div>
 
                             <div class="form-group">
                                 <label class="bmd-label-floating">Número de Placa</label>
-                                <input asp-for="Order_CustomerPlateNumber" class="form-control" />
+                                <input asp-for="Order_CustomerPlateNumber" class="mail_text" />
                                 <span asp-validation-for="Order_CustomerPlateNumber" class="text-danger"></span>
                             </div>
 
                             <!-- Selección de material -->
                             <div class="form-group">
                                 <label>Material</label>
-                                <select asp-for="Order_DesignId" class="form-control" name="MaterialId">
+                                <select asp-for="Order_DesignId" class="mail_text" name="MaterialId">
                                     <option value="">-- Seleccione un material --</option>
                                     @foreach (var mat in (IEnumerable<SiteAsientos.Models.Material>)ViewBag.Materials)
                                     {
@@ -109,24 +109,24 @@
                             <!-- Mostrar precio calculado -->
                             <div class="form-group">
                                 <label>Precio Total (Calculado)</label>
-                                <input type="text" id="CalculatedPrice" class="form-control" readonly />
+                                <input type="text" id="CalculatedPrice" class="mail_text" readonly />
                             </div>
 
                             <!-- Fecha y hora de la cita -->
                             <div class="form-group">
                                 <label>Fecha de la Cita</label>
-                                <input type="date" class="form-control" name="AppointmentDate" required />
+                                <input type="date" class="mail_text" name="AppointmentDate" required />
                             </div>
                             <div class="form-group">
                                 <label>Hora de la Cita</label>
-                                <input type="time" class="form-control" name="AppointmentTime" required />
+                                <input type="time" class="mail_text" name="AppointmentTime" required />
                             </div>
                             <span asp-validation-for="Order_Date" class="text-danger"></span>
 
                             <!-- Monto abonado -->
                             <div class="form-group">
                                 <label>Monto Abonado</label>
-                                <input type="number" step="0.01" class="form-control" name="MontoAbonado" required />
+                                <input type="number" step="0.01" class="mail_text" name="MontoAbonado" required />
                             </div>
                             <span class="text-danger" data-valmsg-for="MontoAbonado" data-valmsg-replace="true"></span>
 
@@ -141,6 +141,107 @@
 
     </div>
 </div>
+ *@
+<!-- contact section start -->
+<div class="contact_section layout_padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h1 class="contact_taital">Información de Cobro</h1>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="contact_section_2">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="mail_section_1">
+                        @if (TempData["SuccessMessage"] != null)
+                        {
+                            <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+                        }
+
+                        <form asp-action="Create" method="post">
+                            <input type="hidden" asp-for="Order_Id" />
+                            <input type="hidden" asp-for="Order_DesignId" />
+                            <input type="hidden" asp-for="Order_Code" />
+
+                            <input asp-for="Order_CustomerName" class="mail_text" placeholder="Nombre Completo" />
+                            <span asp-validation-for="Order_CustomerName" class="text-danger"/>
+
+                            <input asp-for="Order_CustomerId" class="mail_text" placeholder="Numero de Cedula" />
+                            <span asp-validation-for="Order_CustomerId" class="text-danger"></span>
+
+                            <input asp-for="Order_CustomerPhone" class="mail_text" placeholder="Teléfono" />
+                            <span asp-validation-for="Order_CustomerPhone" class="text-danger"></span>
+
+                            <input asp-for="Order_CustomerEmail" class="mail_text" placeholder="Correo Electrónico" />
+                            <span asp-validation-for="Order_CustomerEmail" class="text-danger"></span>
+
+                            <!-- Información del vehículo -->
+                            <select asp-for="Order_CarBrand"  class="mail_text" id="CarBrand" name="CarBrand">
+                                    <option value="">-- Seleccione la marca del vehiculo --</option>
+                                    @foreach (var brand in (List<string>)ViewBag.CarBrands)
+                                    {
+                                        <option value="@brand">@brand</option>
+                                    }
+                                </select>
+
+                            <select asp-for="Order_CarModel" class="mail_text" id="CarModel" name="CarModel">
+                                    <option value="">-- Seleccione la marca primero --</option>
+                                @foreach (var models in (List<string>)ViewBag.CarModels)
+                                {
+                                    <option value="@models">@models</option>
+                                }
+                                </select>
+
+                                <input asp-for="Order_ModelYear" class="mail_text" placeholder="Año del Modelo" />
+                                <span asp-validation-for="Order_ModelYear" class="text-danger"></span>
+
+                                <input asp-for="Order_CustomerPlateNumber" class="mail_text" placeholder="Numero de Placa" />
+                                <span asp-validation-for="Order_CustomerPlateNumber" class="text-danger"></span>
+
+                            <!-- Selección de material -->
+                                <select asp-for="Order_DesignId" class="mail_text" name="MaterialId">
+                                    <option value="">-- Seleccione un material --</option>
+                                    @foreach (var mat in (IEnumerable<SiteAsientos.Models.Material>)ViewBag.Materials)
+                                    {
+                                        <option value="@mat.Material_Id">@mat.Material_Name</option>
+                                    }
+                                </select>
+
+                            <!-- Selección del tipo de servicio -->
+                            <select class="mail_text" id="ServiceType" name="ServiceType">
+                                    <option value="Completo">Completo</option>
+                                    <option value="Solo asientos delanteros">Solo asientos delanteros</option>
+                                    <option value="Solo asientos traseros">Solo asientos traseros</option>
+                                    <option value="Full extras">Full extras</option>
+                                </select>
+
+                            <!-- Mostrar precio calculado -->
+                                <input type="text" id="CalculatedPrice" class="mail_text" readonly />
+
+                            <!-- Fecha y hora de la cita -->
+                            <input type="date" class="mail_text" name="AppointmentDate" placeholder="Fecha de la primera Cita"  required />
+
+                            <input type="time" class="mail_text" name="AppointmentTime" placeholder="Hora de la primera Cita" required />
+                                <span asp-validation-for="Order_Date" class="text-danger"></span>
+
+                            <!-- Monto abonado -->
+                                <input type="number" step="0.01" class="mail_text" name="MontoAbonado" placeholder="Monto a Abonar" required  />
+
+                            <input class="btn btn-primary text-center" type="submit" value="Guardar Orden">
+                            <div class="send_bt">
+                                <a href="@Url.Action("Index","Home")">Cancelar</a>
+                                </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- contact section end -->
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />

@@ -7,24 +7,6 @@
     ViewBag.ViewName = "Gestión de Diseños";
     ViewBag.SelectedView = "Design";
 }
-<<<<<<< Updated upstream
-
-<div class="content">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-12">
-
-                <div class="card">
-                    <div class="card-header card-header-primary">
-                        <h4 class="card-title">Crear Diseño</h4>
-                        <p class="card-category">Complete la información del nuevo diseño</p>
-                    </div>
-                    <div class="card-body">
-                        <form asp-action="Create" asp-controller="Design" method="post" enctype="multipart/form-data">
-                            <div class="form-group">
-                                <label class="bmd-label-floating">Descripción</label>
-                                <input asp-for="Design_Description" class="form-control" />
-=======
 <div class="row">
     <div class="col-12">
         <div class="card my-4">
@@ -41,7 +23,6 @@
                             <div class="form-control">
                                 <label asp-for="Design_Description"></label>
                                 <input asp-for="Design_Description" class="form-control border border-primary p-2 indentFormText" />
->>>>>>> Stashed changes
                                 <span asp-validation-for="Design_Description" class="text-danger"></span>
                             </div>
                             <div class="form-control">

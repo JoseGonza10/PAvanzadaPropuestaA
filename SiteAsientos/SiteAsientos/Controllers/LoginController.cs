@@ -25,7 +25,7 @@ namespace SiteAsientos.Controllers
         {
             if(_service.Login(model,this.HttpContext).Result == true)
             {
-                return RedirectToAction("Index", "Supplier");
+                return RedirectToAction("Profile", "Dashboard");
             }
             else
             {

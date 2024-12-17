@@ -14,11 +14,12 @@ namespace SiteAsientos.Controllers
         }
 
         // GET: Orders/Create?designId=XX
-        public async Task<IActionResult> Create(int designId)
+        [HttpGet]
+        public async Task<IActionResult> Create(int id)
         {
             var design = await _context.Design
                 .Include(d => d.Material)
-                .FirstOrDefaultAsync(d => d.Design_Id == designId);
+                .FirstOrDefaultAsync(d => d.Design_Id == id);
 
             if (design == null) return NotFound();
 
@@ -31,19 +32,21 @@ namespace SiteAsientos.Controllers
             // Datos fijos (pueden venir de una fuente estática o configuraciones)
             ViewBag.CarBrands = new List<string> { "Toyota", "Honda", "Ford", "Chevrolet", "Nissan" };
             // Nota: en un caso real, podrías hacer que el modelo se filtre según la marca seleccionada vía AJAX
-            ViewBag.CarModels = new Dictionary<string, List<string>>
-            {
-                { "Toyota", new List<string>{"Yaris", "Corolla", "Hilux"} },
-                { "Honda", new List<string>{"Civic", "Accord", "CR-V"} },
-                { "Ford", new List<string>{"Focus", "Fiesta", "Ranger"} },
-                { "Chevrolet", new List<string>{"Cruze", "Spark", "Silverado"} },
-                { "Nissan", new List<string>{"Versa", "Sentra", "Frontier"} }
-            };
+            //ViewBag.CarModels = new Dictionary<string, List<string>>
+            //{
+            //    { "Toyota", new List<string>{"Yaris", "Corolla", "Hilux"} },
+            //    { "Honda", new List<string>{"Civic", "Accord", "CR-V"} },
+            //    { "Ford", new List<string>{"Focus", "Fiesta", "Ranger"} },
+            //    { "Chevrolet", new List<string>{"Cruze", "Spark", "Silverado"} },
+            //    { "Nissan", new List<string>{"Versa", "Sentra", "Frontier"} }
+            //};
+
+            ViewBag.CarModels = new List<string> { "Yaris", "Corolla", "Spark", "Ranger", "Frontier" };
 
             // Creamos una nueva orden en memoria
             var order = new Order
             {
-                Order_DesignId = designId,
+                Order_DesignId = id,
                 Order_Code = Guid.NewGuid().ToString("N").Substring(0, 32), // GUID de 32 dígitos sin guiones
                 Order_Date = DateTime.Now,
                 Order_Status = true
@@ -67,14 +70,7 @@ namespace SiteAsientos.Controllers
                 .ToListAsync();
 
             ViewBag.CarBrands = new List<string> { "Toyota", "Honda", "Ford", "Chevrolet", "Nissan" };
-            ViewBag.CarModels = new Dictionary<string, List<string>>
-            {
-                { "Toyota", new List<string>{"Yaris", "Corolla", "Hilux"} },
-                { "Honda", new List<string>{"Civic", "Accord", "CR-V"} },
-                { "Ford", new List<string>{"Focus", "Fiesta", "Ranger"} },
-                { "Chevrolet", new List<string>{"Cruze", "Spark", "Silverado"} },
-                { "Nissan", new List<string>{"Versa", "Sentra", "Frontier"} }
-            };
+            ViewBag.CarModels = new List<string> { "Yaris", "Corolla", "Spark", "Ranger", "Frontier" };
 
             // Obtener el diseño para calcular el precio
             var design = await _context.Design.FindAsync(model.Order_DesignId);
@@ -109,7 +105,7 @@ namespace SiteAsientos.Controllers
             var appointmentDateTime = AppointmentDate.Date + AppointmentTime;
 
             // Verificar si existe otra orden con la misma fecha y hora
-            bool sameDateTimeExists = await _context.Order
+            bool sameDateTimeExists = await _context.Orders
                 .AnyAsync(o => o.Order_Date.Date == appointmentDateTime.Date
                             && o.Order_Date.Hour == appointmentDateTime.Hour
                             && o.Order_Date.Minute == appointmentDateTime.Minute);
@@ -157,7 +153,7 @@ namespace SiteAsientos.Controllers
 
             // Guardar la orden y la factura
             // Primero guardamos la orden para obtener su ID
-            _context.Order.Add(model);
+            _context.Orders.Add(model);
             await _context.SaveChangesAsync();
 
             // Ahora que la orden tiene ID, asignamos Invoice_OrderId

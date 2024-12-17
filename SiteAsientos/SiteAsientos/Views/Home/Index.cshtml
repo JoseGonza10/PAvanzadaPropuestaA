@@ -18,6 +18,7 @@
             <div class="row">
                 @if(Model != null)
                 {
+                    int count = 3;
                     foreach(Design item in Model)
                     {
                         @await Html.PartialAsync("_diseno", item)
