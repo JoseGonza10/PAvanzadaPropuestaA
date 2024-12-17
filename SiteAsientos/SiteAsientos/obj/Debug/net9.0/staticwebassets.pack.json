@@ -513,12 +513,20 @@
       "PackagePath": "staticwebassets\\img\\materials-img\\vr-bg.jpg"
     },
     {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-admin.png",
+      "PackagePath": "staticwebassets\\img\\project-img\\img-admin.png"
+    },
+    {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-material.png",
       "PackagePath": "staticwebassets\\img\\project-img\\img-material.png"
     },
     {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-supplier.png",
       "PackagePath": "staticwebassets\\img\\project-img\\img-supplier.png"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-user.png",
+      "PackagePath": "staticwebassets\\img\\project-img\\img-user.png"
     },
     {
       "Id": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\tractor-img\\about-img.png",

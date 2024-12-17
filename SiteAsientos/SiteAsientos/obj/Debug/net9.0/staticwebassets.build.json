@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GZ7JuSPNVJUHpl8uo9JV7taVMGO7cZ9QjVbBWRHHJ54=",
+  "Hash": "LiUSuROtkYNQT+t/6IdPHnRLDwNOlxpMjSlxCbx+ZOg=",
   "Source": "SiteAsientos",
   "BasePath": "_content/SiteAsientos",
   "Mode": "Default",
@@ -1634,12 +1634,12 @@
       "OriginalItemSpec": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\js\\materials-js\\core\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\obj\\Debug\\net9.0\\compressed\\hvmywt8rby-c2tiyv64ts.gz",
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\obj\\Debug\\net9.0\\compressed\\hvmywt8rby-cqelglmeiq.gz",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/SiteAsientos",
-      "RelativePath": "css/site#[.{fingerprint=c2tiyv64ts}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=cqelglmeiq}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1648,8 +1648,8 @@
       "RelatedAsset": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ohgjeh9gg7",
-      "Integrity": "PByBrPbPMT9U5QyMO0GULXmJVSaD8mEYAGWoDp1i2h8=",
+      "Fingerprint": "77zjh3gskb",
+      "Integrity": "89XB3Qpwk9JQos5xU7itpFyHZt216DgZWXcGMyxQ87o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\site.css"
@@ -3286,8 +3286,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "cqelglmeiq",
+      "Integrity": "1KFF4mU/DBxShWCTDLu0vF9nRHXpHhYvDNU3URU1zpw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -5834,6 +5834,27 @@
       "OriginalItemSpec": "wwwroot\\img\\materials-img\\vr-bg.jpg"
     },
     {
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-admin.png",
+      "SourceId": "SiteAsientos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
+      "BasePath": "_content/SiteAsientos",
+      "RelativePath": "img/project-img/img-admin#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s1ytxzwchv",
+      "Integrity": "oH5h5gl2Ng540ZNteWm+PIqo7Ts63mxGpNLaOox03WU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\project-img\\img-admin.png"
+    },
+    {
       "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-material.png",
       "SourceId": "SiteAsientos",
       "SourceType": "Discovered",
@@ -5874,6 +5895,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\project-img\\img-supplier.png"
+    },
+    {
+      "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-user.png",
+      "SourceId": "SiteAsientos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\",
+      "BasePath": "_content/SiteAsientos",
+      "RelativePath": "img/project-img/img-user#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v7bf11k19c",
+      "Integrity": "dVQ8Fjkn3xOKHD0pWDIuFRuiWfxS/Nkb67TOqS/Br4k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\project-img\\img-user.png"
     },
     {
       "Identity": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\tractor-img\\about-img.png",
@@ -13899,13 +13941,13 @@
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\obj\\Debug\\net9.0\\compressed\\hvmywt8rby-c2tiyv64ts.gz",
+      "Route": "css/site.cqelglmeiq.css",
+      "AssetFile": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\obj\\Debug\\net9.0\\compressed\\hvmywt8rby-cqelglmeiq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004237288136"
+          "Quality": "0.003676470588"
         }
       ],
       "ResponseHeaders": [
@@ -13915,15 +13957,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "235"
+          "Value": "271"
         },
         {
           "Name": "ETag",
-          "Value": "\"PByBrPbPMT9U5QyMO0GULXmJVSaD8mEYAGWoDp1i2h8=\""
+          "Value": "\"89XB3Qpwk9JQos5xU7itpFyHZt216DgZWXcGMyxQ87o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 16:51:20 GMT"
+          "Value": "Tue, 17 Dec 2024 02:10:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13943,13 +13985,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "W/\"1KFF4mU/DBxShWCTDLu0vF9nRHXpHhYvDNU3URU1zpw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "cqelglmeiq"
         },
         {
           "Name": "label",
@@ -13957,12 +13999,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-1KFF4mU/DBxShWCTDLu0vF9nRHXpHhYvDNU3URU1zpw="
         }
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
+      "Route": "css/site.cqelglmeiq.css",
       "AssetFile": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13972,7 +14014,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "424"
         },
         {
           "Name": "Content-Type",
@@ -13980,11 +14022,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"1KFF4mU/DBxShWCTDLu0vF9nRHXpHhYvDNU3URU1zpw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 16:51:20 GMT"
+          "Value": "Tue, 17 Dec 2024 02:10:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13994,7 +14036,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "cqelglmeiq"
         },
         {
           "Name": "label",
@@ -14002,13 +14044,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-1KFF4mU/DBxShWCTDLu0vF9nRHXpHhYvDNU3URU1zpw="
         }
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css.gz",
-      "AssetFile": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\obj\\Debug\\net9.0\\compressed\\hvmywt8rby-c2tiyv64ts.gz",
+      "Route": "css/site.cqelglmeiq.css.gz",
+      "AssetFile": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\obj\\Debug\\net9.0\\compressed\\hvmywt8rby-cqelglmeiq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14017,7 +14059,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "235"
+          "Value": "271"
         },
         {
           "Name": "Content-Type",
@@ -14025,11 +14067,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PByBrPbPMT9U5QyMO0GULXmJVSaD8mEYAGWoDp1i2h8=\""
+          "Value": "\"89XB3Qpwk9JQos5xU7itpFyHZt216DgZWXcGMyxQ87o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 16:51:20 GMT"
+          "Value": "Tue, 17 Dec 2024 02:10:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14047,7 +14089,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "cqelglmeiq"
         },
         {
           "Name": "label",
@@ -14055,18 +14097,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PByBrPbPMT9U5QyMO0GULXmJVSaD8mEYAGWoDp1i2h8="
+          "Value": "sha256-89XB3Qpwk9JQos5xU7itpFyHZt216DgZWXcGMyxQ87o="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\obj\\Debug\\net9.0\\compressed\\hvmywt8rby-c2tiyv64ts.gz",
+      "AssetFile": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\obj\\Debug\\net9.0\\compressed\\hvmywt8rby-cqelglmeiq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004237288136"
+          "Quality": "0.003676470588"
         }
       ],
       "ResponseHeaders": [
@@ -14076,15 +14118,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "235"
+          "Value": "271"
         },
         {
           "Name": "ETag",
-          "Value": "\"PByBrPbPMT9U5QyMO0GULXmJVSaD8mEYAGWoDp1i2h8=\""
+          "Value": "\"89XB3Qpwk9JQos5xU7itpFyHZt216DgZWXcGMyxQ87o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 16:51:20 GMT"
+          "Value": "Tue, 17 Dec 2024 02:10:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14104,13 +14146,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "W/\"1KFF4mU/DBxShWCTDLu0vF9nRHXpHhYvDNU3URU1zpw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-1KFF4mU/DBxShWCTDLu0vF9nRHXpHhYvDNU3URU1zpw="
         }
       ]
     },
@@ -14125,7 +14167,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "424"
         },
         {
           "Name": "Content-Type",
@@ -14133,11 +14175,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"1KFF4mU/DBxShWCTDLu0vF9nRHXpHhYvDNU3URU1zpw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 16:51:20 GMT"
+          "Value": "Tue, 17 Dec 2024 02:10:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14147,13 +14189,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-1KFF4mU/DBxShWCTDLu0vF9nRHXpHhYvDNU3URU1zpw="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\obj\\Debug\\net9.0\\compressed\\hvmywt8rby-c2tiyv64ts.gz",
+      "AssetFile": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\obj\\Debug\\net9.0\\compressed\\hvmywt8rby-cqelglmeiq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14162,7 +14204,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "235"
+          "Value": "271"
         },
         {
           "Name": "Content-Type",
@@ -14170,11 +14212,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PByBrPbPMT9U5QyMO0GULXmJVSaD8mEYAGWoDp1i2h8=\""
+          "Value": "\"89XB3Qpwk9JQos5xU7itpFyHZt216DgZWXcGMyxQ87o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 16:51:20 GMT"
+          "Value": "Tue, 17 Dec 2024 02:10:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14192,7 +14234,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PByBrPbPMT9U5QyMO0GULXmJVSaD8mEYAGWoDp1i2h8="
+          "Value": "sha256-89XB3Qpwk9JQos5xU7itpFyHZt216DgZWXcGMyxQ87o="
         }
       ]
     },
@@ -35567,6 +35609,88 @@
       ]
     },
     {
+      "Route": "img/project-img/img-admin.png",
+      "AssetFile": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-admin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oH5h5gl2Ng540ZNteWm+PIqo7Ts63mxGpNLaOox03WU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Dec 2024 04:36:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oH5h5gl2Ng540ZNteWm+PIqo7Ts63mxGpNLaOox03WU="
+        }
+      ]
+    },
+    {
+      "Route": "img/project-img/img-admin.s1ytxzwchv.png",
+      "AssetFile": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-admin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oH5h5gl2Ng540ZNteWm+PIqo7Ts63mxGpNLaOox03WU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Dec 2024 04:36:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s1ytxzwchv"
+        },
+        {
+          "Name": "label",
+          "Value": "img/project-img/img-admin.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oH5h5gl2Ng540ZNteWm+PIqo7Ts63mxGpNLaOox03WU="
+        }
+      ]
+    },
+    {
       "Route": "img/project-img/img-material.irgsmgnt5s.png",
       "AssetFile": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-material.png",
       "Selectors": [],
@@ -35727,6 +35851,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-VbOhpSbx/sDN3VVpbIBMhiFbO7QMc5ho6z6HibATWkw="
+        }
+      ]
+    },
+    {
+      "Route": "img/project-img/img-user.png",
+      "AssetFile": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-user.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dVQ8Fjkn3xOKHD0pWDIuFRuiWfxS/Nkb67TOqS/Br4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Dec 2024 04:36:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dVQ8Fjkn3xOKHD0pWDIuFRuiWfxS/Nkb67TOqS/Br4k="
+        }
+      ]
+    },
+    {
+      "Route": "img/project-img/img-user.v7bf11k19c.png",
+      "AssetFile": "C:\\Users\\josep\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\wwwroot\\img\\project-img\\img-user.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dVQ8Fjkn3xOKHD0pWDIuFRuiWfxS/Nkb67TOqS/Br4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Dec 2024 04:36:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v7bf11k19c"
+        },
+        {
+          "Name": "label",
+          "Value": "img/project-img/img-user.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dVQ8Fjkn3xOKHD0pWDIuFRuiWfxS/Nkb67TOqS/Br4k="
         }
       ]
     },
@@ -80049,7 +80255,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 17:19:08 GMT"
+          "Value": "Tue, 17 Dec 2024 00:36:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80102,7 +80308,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 17:19:08 GMT"
+          "Value": "Tue, 17 Dec 2024 00:36:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80139,7 +80345,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 17:19:08 GMT"
+          "Value": "Tue, 17 Dec 2024 00:36:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80186,7 +80392,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 17:19:08 GMT"
+          "Value": "Tue, 17 Dec 2024 00:36:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80247,7 +80453,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 17:19:08 GMT"
+          "Value": "Tue, 17 Dec 2024 00:36:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80292,7 +80498,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 17:19:08 GMT"
+          "Value": "Tue, 17 Dec 2024 00:36:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80347,7 +80553,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 17:19:08 GMT"
+          "Value": "Tue, 17 Dec 2024 00:36:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80408,7 +80614,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 17:19:08 GMT"
+          "Value": "Tue, 17 Dec 2024 00:36:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80453,7 +80659,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 17:19:08 GMT"
+          "Value": "Tue, 17 Dec 2024 00:36:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80508,7 +80714,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 17:19:08 GMT"
+          "Value": "Tue, 17 Dec 2024 00:36:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80561,7 +80767,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 17:19:08 GMT"
+          "Value": "Tue, 17 Dec 2024 00:36:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80598,7 +80804,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 17:19:08 GMT"
+          "Value": "Tue, 17 Dec 2024 00:36:55 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -20,13 +20,13 @@ namespace SiteAsientos.Models
 
         [Required, MaxLength(8)]
         [RegularExpression(@"^\d{8}$",ErrorMessage = "El numero de telefono es incorrecto")]
-        [Remote("PhoneExists", "Supplier", ErrorMessage = "Este telefono ya esta siendo usado en otro proveedor")]
+        [Remote("PhoneExists", "Supplier", AdditionalFields = "Supplier_Id", HttpMethod = "POST", ErrorMessage = "Este telefono ya esta siendo usado en otro proveedor")]
         [DisplayName("Telefono")]
         public string? Supplier_Phone { get; set; }
 
         [Required, MaxLength(256)]
         [EmailAddress]
-        [Remote("EmailExists","Supplier",ErrorMessage = "Este correo electrónico ya se encuentra en uso")]
+        [Remote("EmailExists","Supplier", AdditionalFields = "Supplier_Id", HttpMethod = "POST",ErrorMessage = "Este correo electrónico ya se encuentra en uso")]
         [DisplayName("Correo Electrónico")]
         public string? Supplier_Email { get; set; }
         [DisplayName("Fecha de Ingresión")]
