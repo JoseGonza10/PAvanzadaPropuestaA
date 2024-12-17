@@ -3,72 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\shared\\_diseno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\shared\\_diseno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\shared\\_layout2aside.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\shared\\_layout2aside.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\design\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\design\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\migrations\\cubreasientoscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\migrations\\cubreasientoscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\models\\cubreasientoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\models\\cubreasientoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\migrations\\20241217011847_migracion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\migrations\\20241217011847_migracion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\migrations\\20241216045458_migration-15-12-2024-4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\migrations\\20241216045458_migration-15-12-2024-4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\migrations\\20241216044536_migration-15-12-2024-3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\migrations\\20241216044536_migration-15-12-2024-3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\migrations\\20241216014520_migration-15-12-2024-2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\migrations\\20241216014520_migration-15-12-2024-2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\controllers\\designcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\controllers\\designcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\migrations\\20241216013924_migration-15-12-2024.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\migrations\\20241216013924_migration-15-12-2024.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\design\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\design\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\design\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\design\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\design\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\design\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\models\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\models\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\design\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\design\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,438 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 50,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout2Aside.cshtml",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_Layout2Aside.cshtml",
-              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Shared\\_Layout2Aside.cshtml",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_Layout2Aside.cshtml",
-              "RelativeToolTip": "SiteAsientos\\Views\\Shared\\_Layout2Aside.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Title": "_diseno.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_diseno.cshtml",
+              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Shared\\_diseno.cshtml",
+              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_diseno.cshtml",
+              "RelativeToolTip": "SiteAsientos\\Views\\Shared\\_diseno.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:26:03.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout2.cshtml",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_Layout2.cshtml",
-              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Shared\\_Layout2.cshtml",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_Layout2.cshtml",
-              "RelativeToolTip": "SiteAsientos\\Views\\Shared\\_Layout2.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:25:55.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Material.cs",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Material.cs",
-              "RelativeDocumentMoniker": "SiteAsientos\\Models\\Material.cs",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Material.cs",
-              "RelativeToolTip": "SiteAsientos\\Models\\Material.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T04:13:12.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CubreasientosContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Migrations\\CubreasientosContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "SiteAsientos\\Migrations\\CubreasientosContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Migrations\\CubreasientosContextModelSnapshot.cs",
-              "RelativeToolTip": "SiteAsientos\\Migrations\\CubreasientosContextModelSnapshot.cs",
-              "ViewState": "AgIAAJoBAAAAAAAAAAAvwKkBAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T04:13:09.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CubreasientosContext.cs",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\CubreasientosContext.cs",
-              "RelativeDocumentMoniker": "SiteAsientos\\Models\\CubreasientosContext.cs",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\CubreasientosContext.cs",
-              "RelativeToolTip": "SiteAsientos\\Models\\CubreasientosContext.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAABwAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T04:13:06.259Z",
+              "WhenOpened": "2024-12-17T05:20:20.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Design\\Create.cshtml",
-              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Design\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Design\\Create.cshtml",
-              "RelativeToolTip": "SiteAsientos\\Views\\Design\\Create.cshtml",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAAE0AAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:13:02.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20241217011847_migracion.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Migrations\\20241217011847_migracion.Designer.cs",
-              "RelativeDocumentMoniker": "SiteAsientos\\Migrations\\20241217011847_migracion.Designer.cs",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Migrations\\20241217011847_migracion.Designer.cs",
-              "RelativeToolTip": "SiteAsientos\\Migrations\\20241217011847_migracion.Designer.cs",
-              "ViewState": "AgIAAJ0BAAAAAAAAAAAvwKwBAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T04:13:00.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20241216045458_Migration-15-12-2024-4.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Migrations\\20241216045458_Migration-15-12-2024-4.Designer.cs",
-              "RelativeDocumentMoniker": "SiteAsientos\\Migrations\\20241216045458_Migration-15-12-2024-4.Designer.cs",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Migrations\\20241216045458_Migration-15-12-2024-4.Designer.cs",
-              "RelativeToolTip": "SiteAsientos\\Migrations\\20241216045458_Migration-15-12-2024-4.Designer.cs",
-              "ViewState": "AgIAAJ0BAAAAAAAAAAAvwKwBAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T04:12:58.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20241216044536_Migration-15-12-2024-3.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Migrations\\20241216044536_Migration-15-12-2024-3.Designer.cs",
-              "RelativeDocumentMoniker": "SiteAsientos\\Migrations\\20241216044536_Migration-15-12-2024-3.Designer.cs",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Migrations\\20241216044536_Migration-15-12-2024-3.Designer.cs",
-              "RelativeToolTip": "SiteAsientos\\Migrations\\20241216044536_Migration-15-12-2024-3.Designer.cs",
-              "ViewState": "AgIAAJgBAAAAAAAAAAAvwKwBAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T04:12:54.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20241216014520_Migration-15-12-2024-2.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Migrations\\20241216014520_Migration-15-12-2024-2.Designer.cs",
-              "RelativeDocumentMoniker": "SiteAsientos\\Migrations\\20241216014520_Migration-15-12-2024-2.Designer.cs",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Migrations\\20241216014520_Migration-15-12-2024-2.Designer.cs",
-              "RelativeToolTip": "SiteAsientos\\Migrations\\20241216014520_Migration-15-12-2024-2.Designer.cs",
-              "ViewState": "AgIAAJ0BAAAAAAAAAAAvwKwBAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T04:12:51.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20241216013924_Migration-15-12-2024.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Migrations\\20241216013924_Migration-15-12-2024.Designer.cs",
-              "RelativeDocumentMoniker": "SiteAsientos\\Migrations\\20241216013924_Migration-15-12-2024.Designer.cs",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Migrations\\20241216013924_Migration-15-12-2024.Designer.cs",
-              "RelativeToolTip": "SiteAsientos\\Migrations\\20241216013924_Migration-15-12-2024.Designer.cs",
-              "ViewState": "AgIAAKABAAAAAAAAAAAvwK8BAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T04:12:30.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Design.cs",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Design.cs",
-              "RelativeDocumentMoniker": "SiteAsientos\\Models\\Design.cs",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Design.cs",
-              "RelativeToolTip": "SiteAsientos\\Models\\Design.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T04:08:58.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Design\\Edit.cshtml",
-              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Design\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Design\\Edit.cshtml*",
-              "RelativeToolTip": "SiteAsientos\\Views\\Design\\Edit.cshtml*",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAvwE8AAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:06:47.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Design\\Index.cshtml",
-              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Design\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Design\\Index.cshtml",
-              "RelativeToolTip": "SiteAsientos\\Views\\Design\\Index.cshtml",
-              "ViewState": "AgIAACsAAAAAAAAAAAAtwD0AAAB0AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SiteAsientos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:06:45.492Z",
+              "WhenOpened": "2024-12-17T05:17:34.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DesignController.cs",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Controllers\\DesignController.cs",
-              "RelativeDocumentMoniker": "SiteAsientos\\Controllers\\DesignController.cs",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Controllers\\DesignController.cs",
-              "RelativeToolTip": "SiteAsientos\\Controllers\\DesignController.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAvwJsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T04:02:56.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Design\\Delete.cshtml",
-              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Design\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Design\\Delete.cshtml*",
-              "RelativeToolTip": "SiteAsientos\\Views\\Design\\Delete.cshtml*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAtwDAAAABjAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "_Layout2Aside.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_Layout2Aside.cshtml",
+              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Shared\\_Layout2Aside.cshtml",
+              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_Layout2Aside.cshtml",
+              "RelativeToolTip": "SiteAsientos\\Views\\Shared\\_Layout2Aside.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:02:50.89Z",
+              "WhenOpened": "2024-12-17T05:15:34.087Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Design\\Details.cshtml",
-              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Design\\Details.cshtml",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Design\\Details.cshtml",
-              "RelativeToolTip": "SiteAsientos\\Views\\Design\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:02:49.739Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

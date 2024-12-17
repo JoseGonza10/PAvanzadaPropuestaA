@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\controllers\\materialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\controllers\\materialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\shared\\_diseno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\shared\\_diseno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\material\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\material\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\material\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\material\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\shared\\_layout2aside.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\shared\\_layout2aside.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 51,
+          "SelectedChildIndex": 50,
           "Children": [
             {
               "$type": "Bookmark",
@@ -226,42 +226,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Material\\Edit.cshtml",
-              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Material\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Material\\Edit.cshtml",
-              "RelativeToolTip": "SiteAsientos\\Views\\Material\\Edit.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_diseno.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_diseno.cshtml",
+              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Shared\\_diseno.cshtml",
+              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_diseno.cshtml",
+              "RelativeToolTip": "SiteAsientos\\Views\\Shared\\_diseno.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:50:09.268Z",
+              "WhenOpened": "2024-12-17T05:20:20.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MaterialController.cs",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Controllers\\MaterialController.cs",
-              "RelativeDocumentMoniker": "SiteAsientos\\Controllers\\MaterialController.cs",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Controllers\\MaterialController.cs",
-              "RelativeToolTip": "SiteAsientos\\Controllers\\MaterialController.cs",
-              "ViewState": "AgIAAOUAAAAAAAAAAAAuwPwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T04:40:29.973Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SiteAsientos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T05:17:34.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Material\\Index.cshtml",
-              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Material\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Material\\Index.cshtml",
-              "RelativeToolTip": "SiteAsientos\\Views\\Material\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Title": "_Layout2Aside.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_Layout2Aside.cshtml",
+              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Shared\\_Layout2Aside.cshtml",
+              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_Layout2Aside.cshtml",
+              "RelativeToolTip": "SiteAsientos\\Views\\Shared\\_Layout2Aside.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:40:20.026Z",
+              "WhenOpened": "2024-12-17T05:15:34.087Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
