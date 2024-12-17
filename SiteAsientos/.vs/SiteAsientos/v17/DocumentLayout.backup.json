@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\shared\\_diseno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\shared\\_diseno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\controllers\\orderscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\controllers\\orderscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|solutionrelative:siteasientos\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B70088C-3471-41B8-BCCD-02CFEF1D0CEA}|SiteAsientos\\SiteAsientos.csproj|c:\\users\\jsarr\\onedrive\\documentos\\github\\pavanzadapropuestaa\\siteasientos\\siteasientos\\views\\plantilla\\billing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,85 +42,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 52,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_diseno.cshtml",
               "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_diseno.cshtml",
               "RelativeDocumentMoniker": "SiteAsientos\\Views\\Shared\\_diseno.cshtml",
               "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Shared\\_diseno.cshtml",
               "RelativeToolTip": "SiteAsientos\\Views\\Shared\\_diseno.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-17T05:45:11.387Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrdersController1.cs",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Controllers\\OrdersController1.cs",
-              "RelativeDocumentMoniker": "SiteAsientos\\Controllers\\OrdersController1.cs",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Controllers\\OrdersController1.cs",
-              "RelativeToolTip": "SiteAsientos\\Controllers\\OrdersController1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T06:29:43.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Billing.cshtml",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Plantilla\\Billing.cshtml",
-              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Plantilla\\Billing.cshtml",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Plantilla\\Billing.cshtml",
-              "RelativeToolTip": "SiteAsientos\\Views\\Plantilla\\Billing.cshtml",
-              "ViewState": "AgIAAMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T06:21:19.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "SiteAsientos\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Order.cs",
-              "RelativeToolTip": "SiteAsientos\\Models\\Order.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T06:11:26.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Invoice.cs",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Invoice.cs",
-              "RelativeDocumentMoniker": "SiteAsientos\\Models\\Invoice.cs",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Invoice.cs",
-              "RelativeToolTip": "SiteAsientos\\Models\\Invoice.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T06:09:30.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Visit.cs",
-              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Visit.cs",
-              "RelativeDocumentMoniker": "SiteAsientos\\Models\\Visit.cs",
-              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Visit.cs",
-              "RelativeToolTip": "SiteAsientos\\Models\\Visit.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T06:10:35.555Z",
               "EditorCaption": ""
             },
             {
@@ -321,7 +260,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "SiteAsientos\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T06:34:00.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "SiteAsientos\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "SiteAsientos\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:29:43.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Billing.cshtml",
+              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Plantilla\\Billing.cshtml",
+              "RelativeDocumentMoniker": "SiteAsientos\\Views\\Plantilla\\Billing.cshtml",
+              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Plantilla\\Billing.cshtml",
+              "RelativeToolTip": "SiteAsientos\\Views\\Plantilla\\Billing.cshtml",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T06:21:19.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SiteAsientos\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Order.cs",
+              "RelativeToolTip": "SiteAsientos\\Models\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:11:26.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "SiteAsientos\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Invoice.cs",
+              "RelativeToolTip": "SiteAsientos\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:09:30.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Visit.cs",
+              "RelativeDocumentMoniker": "SiteAsientos\\Models\\Visit.cs",
+              "ToolTip": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Models\\Visit.cs",
+              "RelativeToolTip": "SiteAsientos\\Models\\Visit.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:10:35.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jsarr\\OneDrive\\Documentos\\GitHub\\PAvanzadaPropuestaA\\SiteAsientos\\SiteAsientos\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SiteAsientos\\Views\\Home\\Index.cshtml",
