@@ -1,60 +1,53 @@
 ﻿@model SiteAsientos.Models.Material 
 @{
-    ViewData["Title"] = "Editar Material";
+    ViewData["Title"] = "Edit";
     Layout = "~/Views/Shared/_Layout2.cshtml";
+    var HeaderTitle = "Editar Material";
+    ViewBag.ViewName = "Gestión de Materiales";
+    ViewBag.SelectedView = "Material";
 }
 
-<div class="content">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-12">
-
-                <div class="card">
-                    <div class="card-header card-header-primary">
-                        <h4 class="card-title">Editar Material</h4>
-                        <p class="card-category">Modifique la información del material</p>
-                    </div>
-                    <div class="card-body">
-                        <form asp-action="Edit" method="post">
+<div class="row">
+    <div class="col-12">
+        <div class="card my-4">
+            <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
+                <div class="bg-gradient-primary shadow-primary border-radius-lg pt-4 pb-3">
+                    <h6 class="text-white text-capitalize ps-3">@HeaderTitle</h6>
+                </div>
+            </div>
+            <div class="card-body px-0 pb-2">
+                <div class="row">
+                    <div class="col-md-6 w-75 m-2">
+                        <form asp-action="Edit">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                             <input type="hidden" asp-for="Material_Id" />
-
-                            <div class="form-group">
-                                <label class="bmd-label-floating">Nombre del Material</label>
-                                <input asp-for="Material_Name" class="form-control" />
+                            <div class="form-control">
+                                <label asp-for="Material_Name"></label>
+                                <input asp-for="Material_Name" class="form-control border border-primary p-2 indentFormText" />
                                 <span asp-validation-for="Material_Name" class="text-danger"></span>
                             </div>
-
-                            <div class="form-group">
-                                <label class="bmd-label-floating">Proveedor</label>
-                                <select asp-for="Material_SupplierId" class="form-control"
-                                        asp-items="@(new SelectList((IEnumerable<SiteAsientos.Models.Supplier>)ViewBag.Suppliers, "Supplier_Id", "Supplier_Name", Model.Material_SupplierId))">
-                                    <option value="">-- Seleccione un proveedor --</option>
-                                </select>
-                                <span asp-validation-for="Material_SupplierId" class="text-danger"></span>
+                            <div class="form-control">
+                                <label asp-for="Material_SupplierId"></label>
+                                <select asp-for="Material_SupplierId" asp-items="ViewBag.SupplierId" class="form-control border border-primary indentFormText"></select>
                             </div>
-
-                            <div class="form-check">
+                            <div class="form-group form-check">
                                 <label class="form-check-label">
-                                    <input asp-for="Material_Status" class="form-check-input" type="checkbox" />
-                                    Estado Activo
-                                    <span class="form-check-sign">
-                                        <span class="check"></span>
-                                    </span>
+                                    <input class="form-check-input" asp-for="Material_Status" /> @Html.DisplayNameFor(model => model.Material_Status)
                                 </label>
-                                <span asp-validation-for="Material_Status" class="text-danger"></span>
                             </div>
-
-                            <button type="submit" class="btn btn-primary btn-round">Guardar Cambios</button>
-                            <a class="btn btn-default btn-round" href="@Url.Action("Index", "Material")">Volver a la lista</a>
+                            <div class="form-group">
+                                <input type="submit" value="Guardar" class="btn btn-primary" />
+                                <a asp-action="Index" class="btn btn-primary">Volver</a>
+                            </div>
                         </form>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
-</div>
 
-@section Scripts {
-    <partial name="_ValidationScriptsPartial" />
-}
+    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }

@@ -48,11 +48,7 @@ namespace SiteAsientos.Controllers
         public async Task<IActionResult> Create()
         {
             // Cargamos la lista de materiales activos para el dropdown
-            ViewBag.Materials = await _context.Material
-                .Where(m => m.Material_Status == true)
-                .OrderBy(m => m.Material_Name)
-                .ToListAsync();
-
+            ViewData["MaterialId"] = new SelectList(_context.Material.Where(x => x.Material_Status != false), "Material_Id", "Material_Name");
             return View();
         }
 
@@ -68,10 +64,7 @@ namespace SiteAsientos.Controllers
             if (!ModelState.IsValid)
             {
                 // Volvemos a cargar los materiales en caso de error
-                ViewBag.Materials = await _context.Material
-                    .Where(m => m.Material_Status == true)
-                    .OrderBy(m => m.Material_Name)
-                    .ToListAsync();
+                ViewData["MaterialId"] = new SelectList(_context.Material.Where(x => x.Material_Status != false), "Material_Id", "Material_Name");
                 return View(model);
             }
 
@@ -94,11 +87,7 @@ namespace SiteAsientos.Controllers
 
                 if (!ModelState.IsValid)
                 {
-                    ViewBag.Materials = await _context.Material
-                        .Where(m => m.Material_Status == true)
-                        .OrderBy(m => m.Material_Name)
-                        .ToListAsync();
-                    return View(model);
+                    ViewData["MaterialId"] = new SelectList(_context.Material.Where(x => x.Material_Status != false), "Material_Id", "Material_Name");
                 }
             }
 
@@ -119,7 +108,7 @@ namespace SiteAsientos.Controllers
                         Image_DesignId = model.Design_Id,
                         Image_Content = imageData
                     };
-                    _context.Image.Add(imageEntity);
+                    _context.Images.Add(imageEntity);
                     await _context.SaveChangesAsync();
                 }
             }
@@ -140,10 +129,7 @@ namespace SiteAsientos.Controllers
             if (design == null) return NotFound();
 
             // Cargar materiales activos
-            ViewBag.Materials = await _context.Material
-                .Where(m => m.Material_Status == true)
-                .OrderBy(m => m.Material_Name)
-                .ToListAsync();
+            ViewData["MaterialId"] = new SelectList(_context.Material.Where(x => x.Material_Status != false), "Material_Id", "Material_Name");
 
             return View(design);
         }
@@ -188,10 +174,7 @@ namespace SiteAsientos.Controllers
             if (!ModelState.IsValid)
             {
                 // Volvemos a cargar los materiales en caso de error
-                ViewBag.Materials = await _context.Material
-                    .Where(m => m.Material_Status == true)
-                    .OrderBy(m => m.Material_Name)
-                    .ToListAsync();
+                ViewData["MaterialId"] = new SelectList(_context.Material.Where(x => x.Material_Status != false), "Material_Id", "Material_Name");
 
                 return View(model);
             }
@@ -218,7 +201,7 @@ namespace SiteAsientos.Controllers
                     {
                         var existingImage = originalDesign.Images.First();
                         existingImage.Image_Content = imageData;
-                        _context.Image.Update(existingImage);
+                        _context.Images.Update(existingImage);
                     }
                     else
                     {
@@ -228,7 +211,7 @@ namespace SiteAsientos.Controllers
                             Image_DesignId = originalDesign.Design_Id,
                             Image_Content = imageData
                         };
-                        _context.Image.Add(imageEntity);
+                        _context.Images.Add(imageEntity);
                     }
                 }
             }
@@ -290,7 +273,7 @@ namespace SiteAsientos.Controllers
             // Eliminar las imágenes asociadas (si existen)
             if (design.Images != null && design.Images.Any())
             {
-                _context.Image.RemoveRange(design.Images);
+                _context.Images.RemoveRange(design.Images);
             }
 
             _context.Design.Remove(design);

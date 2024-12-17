@@ -21,7 +21,7 @@ namespace SiteAsientos.Controllers
         // GET: Image
         public async Task<IActionResult> Index()
         {
-            var cubreasientosContext = _context.Image.Include(i => i.Design);
+            var cubreasientosContext = _context.Images.Include(i => i.Design);
             return View(await cubreasientosContext.ToListAsync());
         }
 
@@ -33,7 +33,7 @@ namespace SiteAsientos.Controllers
                 return NotFound();
             }
 
-            var image = await _context.Image
+            var image = await _context.Images
                 .Include(i => i.Design)
                 .FirstOrDefaultAsync(m => m.Image_Id == id);
             if (image == null)
@@ -76,7 +76,7 @@ namespace SiteAsientos.Controllers
                 return NotFound();
             }
 
-            var image = await _context.Image.FindAsync(id);
+            var image = await _context.Images.FindAsync(id);
             if (image == null)
             {
                 return NotFound();
@@ -129,7 +129,7 @@ namespace SiteAsientos.Controllers
                 return NotFound();
             }
 
-            var image = await _context.Image
+            var image = await _context.Images
                 .Include(i => i.Design)
                 .FirstOrDefaultAsync(m => m.Image_Id == id);
             if (image == null)
@@ -145,10 +145,10 @@ namespace SiteAsientos.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var image = await _context.Image.FindAsync(id);
+            var image = await _context.Images.FindAsync(id);
             if (image != null)
             {
-                _context.Image.Remove(image);
+                _context.Images.Remove(image);
             }
 
             await _context.SaveChangesAsync();
@@ -157,7 +157,7 @@ namespace SiteAsientos.Controllers
 
         private bool ImageExists(int id)
         {
-            return _context.Image.Any(e => e.Image_Id == id);
+            return _context.Images.Any(e => e.Image_Id == id);
         }
     }
 }

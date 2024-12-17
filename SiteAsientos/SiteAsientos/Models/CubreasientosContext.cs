@@ -16,7 +16,7 @@ public partial class CubreasientosContext : DbContext
 	public DbSet<Employee> Employee { get; set; }
 	public DbSet<Material> Material { get; set; }
 
-	public DbSet<Image> Image { get; set; }
+	public DbSet<Image> Images { get; set; }
 	public DbSet<Design> Design { get; set; }
 	public DbSet<Order> Order { get; set; }
 	public DbSet<Supplier> Supplier { get; set; }

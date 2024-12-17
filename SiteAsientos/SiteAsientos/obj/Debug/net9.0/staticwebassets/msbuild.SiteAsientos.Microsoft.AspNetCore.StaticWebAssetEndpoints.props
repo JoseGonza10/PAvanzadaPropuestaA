@@ -64,13 +64,21 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cqelglmeiq"},{"Name":"integrity","Value":"sha256-1KFF4mU/DBxShWCTDLu0vF9nRHXpHhYvDNU3URU1zpw="},{"Name":"label","Value":"_content/SiteAsientos/css/site.css"}]]]></EndpointProperties>
+<<<<<<< Updated upstream
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"424"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00221KFF4mU/DBxShWCTDLu0vF9nRHXpHhYvDNU3URU1zpw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 05:23:39 GMT"}]]]></ResponseHeaders>
+=======
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"424"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00221KFF4mU/DBxShWCTDLu0vF9nRHXpHhYvDNU3URU1zpw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 05:04:46 GMT"}]]]></ResponseHeaders>
+>>>>>>> Stashed changes
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SiteAsientos/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1KFF4mU/DBxShWCTDLu0vF9nRHXpHhYvDNU3URU1zpw="}]]]></EndpointProperties>
+<<<<<<< Updated upstream
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"424"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00221KFF4mU/DBxShWCTDLu0vF9nRHXpHhYvDNU3URU1zpw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 05:23:39 GMT"}]]]></ResponseHeaders>
+=======
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"424"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00221KFF4mU/DBxShWCTDLu0vF9nRHXpHhYvDNU3URU1zpw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 05:04:46 GMT"}]]]></ResponseHeaders>
+>>>>>>> Stashed changes
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SiteAsientos/css/tractor-css/animate.min.7dh9pdorr9.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\tractor-css\animate.min.css'))</AssetFile>
@@ -1528,13 +1536,21 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\project-img\img-admin.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oH5h5gl2Ng540ZNteWm\u002BPIqo7Ts63mxGpNLaOox03WU="}]]]></EndpointProperties>
+<<<<<<< Updated upstream
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16395"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oH5h5gl2Ng540ZNteWm\u002BPIqo7Ts63mxGpNLaOox03WU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 05:23:21 GMT"}]]]></ResponseHeaders>
+=======
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16395"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oH5h5gl2Ng540ZNteWm\u002BPIqo7Ts63mxGpNLaOox03WU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 05:04:46 GMT"}]]]></ResponseHeaders>
+>>>>>>> Stashed changes
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SiteAsientos/img/project-img/img-admin.s1ytxzwchv.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\project-img\img-admin.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s1ytxzwchv"},{"Name":"integrity","Value":"sha256-oH5h5gl2Ng540ZNteWm\u002BPIqo7Ts63mxGpNLaOox03WU="},{"Name":"label","Value":"_content/SiteAsientos/img/project-img/img-admin.png"}]]]></EndpointProperties>
+<<<<<<< Updated upstream
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16395"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oH5h5gl2Ng540ZNteWm\u002BPIqo7Ts63mxGpNLaOox03WU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 05:23:21 GMT"}]]]></ResponseHeaders>
+=======
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16395"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oH5h5gl2Ng540ZNteWm\u002BPIqo7Ts63mxGpNLaOox03WU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 05:04:46 GMT"}]]]></ResponseHeaders>
+>>>>>>> Stashed changes
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SiteAsientos/img/project-img/img-material.irgsmgnt5s.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\project-img\img-material.png'))</AssetFile>
@@ -1564,13 +1580,21 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\project-img\img-user.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dVQ8Fjkn3xOKHD0pWDIuFRuiWfxS/Nkb67TOqS/Br4k="}]]]></EndpointProperties>
+<<<<<<< Updated upstream
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13491"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022dVQ8Fjkn3xOKHD0pWDIuFRuiWfxS/Nkb67TOqS/Br4k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 05:23:21 GMT"}]]]></ResponseHeaders>
+=======
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13491"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022dVQ8Fjkn3xOKHD0pWDIuFRuiWfxS/Nkb67TOqS/Br4k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 05:04:46 GMT"}]]]></ResponseHeaders>
+>>>>>>> Stashed changes
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SiteAsientos/img/project-img/img-user.v7bf11k19c.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\project-img\img-user.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v7bf11k19c"},{"Name":"integrity","Value":"sha256-dVQ8Fjkn3xOKHD0pWDIuFRuiWfxS/Nkb67TOqS/Br4k="},{"Name":"label","Value":"_content/SiteAsientos/img/project-img/img-user.png"}]]]></EndpointProperties>
+<<<<<<< Updated upstream
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13491"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022dVQ8Fjkn3xOKHD0pWDIuFRuiWfxS/Nkb67TOqS/Br4k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 05:23:21 GMT"}]]]></ResponseHeaders>
+=======
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13491"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022dVQ8Fjkn3xOKHD0pWDIuFRuiWfxS/Nkb67TOqS/Br4k=\u0022"},{"Name":"Last-Modified","Value":"Tue, 17 Dec 2024 05:04:46 GMT"}]]]></ResponseHeaders>
+>>>>>>> Stashed changes
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SiteAsientos/img/tractor-img/about-img.hllrrozc97.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\tractor-img\about-img.png'))</AssetFile>

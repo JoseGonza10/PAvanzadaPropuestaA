@@ -1,29 +1,27 @@
 ﻿@model SiteAsientos.Models.Design 
 @{
-    ViewData["Title"] = "Borrar Diseño";
+    ViewData["Title"] = "Delete";
     Layout = "~/Views/Shared/_Layout2.cshtml";
+    var HeaderTitle = "Borrar Diseño";
+    ViewBag.ViewName = "Gestión de Diseños";
+    ViewBag.SelectedView = "Design";
 }
 
-<div class="content">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-12">
-
-                <div class="card">
-                    <div class="card-header card-header-danger">
-                        <h4 class="card-title">Borrar Diseño</h4>
-                        <p class="card-category">¿Está seguro de que desea eliminar este diseño?</p>
-                    </div>
-                    <div class="card-body">
-
-                        <div class="alert alert-warning">
-                            Esta acción no se puede deshacer. Si el diseño posee imágenes, también serán eliminadas permanentemente.
-                        </div>
-
+<div class="row">
+    <div class="col-12">
+        <div class="card my-4">
+            <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
+                <div class="bg-gradient-primary shadow-primary border-radius-lg pt-4 pb-3">
+                    <h6 class="text-white text-capitalize ps-3">@HeaderTitle</h6>
+                </div>
+            </div>
+            <div class="card-body px-0 pb-2">
+                <div class="row">
+                    <div class="col-md-6 w-75 m-2">
                         <dl class="dl-horizontal">
-                            <dt>ID</dt>
-                            <dd>@Model.Design_Id</dd>
-
+                            <div class="alert alert-warning">
+                                Esta acción no se puede deshacer. Si el diseño posee imágenes, también serán eliminadas permanentemente.
+                            </div>
                             <dt>Descripción</dt>
                             <dd>@Model.Design_Description</dd>
 
@@ -42,16 +40,13 @@
                             <dt>Estado</dt>
                             <dd>@(Model.Design_Status ? "Activo" : "Inactivo")</dd>
                         </dl>
-
-                        <form asp-action="Delete" method="post">
-                            <input type="hidden" asp-for="Design_Id" />
-                            <button type="submit" class="btn btn-danger btn-round">Eliminar</button>
-                            <a class="btn btn-default btn-round" href="@Url.Action("Index", "Design")">Cancelar</a>
+                        <form asp-action="Delete">
+                            <input type="hidden" asp-for="Design_Id"/>
+                            <input type="submit" value="Delete" class="btn btn-danger" />
+                            <a asp-action="Index" class="btn btn-primary">Volver</a>
                         </form>
-
                     </div>
                 </div>
-
             </div>
         </div>
     </div>

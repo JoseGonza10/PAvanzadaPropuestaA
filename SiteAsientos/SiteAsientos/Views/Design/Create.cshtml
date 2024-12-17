@@ -2,7 +2,12 @@
 @{
     ViewData["Title"] = "Crear Diseño";
     Layout = "~/Views/Shared/_Layout2.cshtml";
+    var HeaderTitle = "Crear Diseño";
+    string[] Servicios = ["Asientos Delanteros", "Asientos Traseros", "Todos los Asientos"];
+    ViewBag.ViewName = "Gestión de Diseños";
+    ViewBag.SelectedView = "Design";
 }
+<<<<<<< Updated upstream
 
 <div class="content">
     <div class="container-fluid">
@@ -19,73 +24,77 @@
                             <div class="form-group">
                                 <label class="bmd-label-floating">Descripción</label>
                                 <input asp-for="Design_Description" class="form-control" />
+=======
+<div class="row">
+    <div class="col-12">
+        <div class="card my-4">
+            <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
+                <div class="bg-gradient-primary shadow-primary border-radius-lg pt-4 pb-3">
+                    <h6 class="text-white text-capitalize ps-3">@HeaderTitle</h6>
+                </div>
+            </div>
+            <div class="card-body px-0 pb-2">
+                <div class="row">
+                    <div class="col-md-6 w-75 m-2">
+                        <form asp-action="Create" method="post" enctype="multipart/form-data">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="form-control">
+                                <label asp-for="Design_Description"></label>
+                                <input asp-for="Design_Description" class="form-control border border-primary p-2 indentFormText" />
+>>>>>>> Stashed changes
                                 <span asp-validation-for="Design_Description" class="text-danger"></span>
                             </div>
-
-                            <div class="form-group">
-                                <label class="bmd-label-floating">Material</label>
-                                <select asp-for="Design_MaterialId" class="form-control" asp-items="@(new SelectList((IEnumerable<SiteAsientos.Models.Material>)ViewBag.Materials, "Material_Id", "Material_Name"))">
-                                    <option value="">-- Seleccione un material --</option>
-                                </select>
-                                <span asp-validation-for="Design_MaterialId" class="text-danger"></span>
+                            <div class="form-control">
+                                <label asp-for="Design_MaterialId"></label>
+                                <select asp-for="Design_MaterialId" asp-items="ViewBag.MaterialId" class="form-control border border-primary indentFormText"></select>
                             </div>
-
-                            <div class="form-group">
-                                <label class="bmd-label-floating">Color</label>
-                                <input asp-for="Design_Color" class="form-control" />
+                            <div class="form-control">
+                                <label asp-for="Design_Color"></label>
+                                <input asp-for="Design_Color" class="form-control border border-primary p-2 indentFormText" />
                                 <span asp-validation-for="Design_Color" class="text-danger"></span>
                             </div>
-
-                            <div class="form-group">
-                                <label class="bmd-label-floating">Precio</label>
-                                <input asp-for="Design_Price" class="form-control" />
+                            <div class="form-control">
+                                <label asp-for="Design_Price"></label>
+                                <input asp-for="Design_Price" class="form-control border border-primary p-2 indentFormText" />
                                 <span asp-validation-for="Design_Price" class="text-danger"></span>
                             </div>
-
-                            <div class="form-group">
-                                <label class="bmd-label-floating">Impuesto (ej: 0.07 para 7%)</label>
-                                <input asp-for="Design_Taxable" class="form-control" />
+                            <div class="form-control">
+                                <label asp-for="Design_Taxable"></label>
+                                <input asp-for="Design_Taxable" class="form-control border border-primary p-2 indentFormText" />
                                 <span asp-validation-for="Design_Taxable" class="text-danger"></span>
                             </div>
-
-                            <div class="form-check">
+                            <div class="form-control">
+                                <label asp-for="Design_Service"></label>
+                                <select asp-for="Design_Service" asp-items="@(new SelectList(Servicios))" class="form-control border border-primary indentFormText"></select>
+                            </div>
+                            <div class="form-group form-check">
                                 <label class="form-check-label">
-                                    <input asp-for="Design_Status" class="form-check-input" type="checkbox" />
-                                    Estado Activo
-                                    <span class="form-check-sign">
-                                        <span class="check"></span>
-                                    </span>
+                                    <input class="form-check-input" asp-for="Design_Status" /> @Html.DisplayNameFor(model => model.Design_Status)
                                 </label>
-                                <span asp-validation-for="Design_Status" class="text-danger"></span>
                             </div>
-
-                            <div class="form-group">
-                                <label class="bmd-label-floating">Servicio (opcional)</label>
-                                <input asp-for="Design_Service" class="form-control" />
-                                <span asp-validation-for="Design_Service" class="text-danger"></span>
-                            </div>
-
                             <div class="form-group">
                                 <label>Imagen (JPG, JPEG, PNG, máx 1MB)</label>
-                                <input type="file" name="UploadedImage" class="form-control" />
+                                <input type="file" name="UploadedImage" class="form-control btn btn-fab btn-round btn-primary" />
                                 @if (ViewContext.ViewData.ModelState.ContainsKey("UploadedImage"))
                                 {
                                     <span class="text-danger">@ViewContext.ViewData.ModelState["UploadedImage"].Errors.FirstOrDefault()?.ErrorMessage</span>
                                 }
                             </div>
 
-                            <button type="submit" class="btn btn-primary btn-round">Guardar</button>
-                            <a class="btn btn-default btn-round" href="@Url.Action("Index", "Design")">Volver a la lista</a>
+                            <div class="form-group">
+                                <input type="submit" value="Guardar" class="btn btn-primary" />
+                                <a asp-action="Index" class="btn btn-primary">Volver</a>
+                            </div>
                         </form>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
 </div>
 
 @section Scripts {
-    <!-- Incluye las validaciones de ASP.NET Core -->
-    <partial name="_ValidationScriptsPartial" />
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

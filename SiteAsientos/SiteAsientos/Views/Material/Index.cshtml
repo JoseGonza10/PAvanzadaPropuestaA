@@ -1,104 +1,113 @@
 ﻿@model IEnumerable<SiteAsientos.Models.Material> 
 @{
-    ViewData["Title"] = "Lista de Materiales";
+    ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout2.cshtml";
+    var HeaderTitle = "Materiales";
+    ViewBag.ViewName = "Gestión de Materiales";
+    ViewBag.SelectedView = "Material";
 }
 
-<div class="content">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-12">
-                <div class="card">
-
-                    <div class="card-header card-header-primary">
-                        <h4 class="card-title ">Lista de Materiales</h4>
-                        <p class="card-category">Administración de Materiales</p>
-                    </div>
-
-                    <div class="card-body">
-
-                        <!-- Botón para Crear un nuevo Material -->
-                        <div class="mb-3">
-                            <a href="@Url.Action("Create", "Material")" class="btn btn-success btn-round">Crear Nuevo Material</a>
-                        </div>
-
-                        <!-- Formulario de Búsqueda -->
-                        <form method="get" class="form-inline mb-3">
-                            <div class="form-group mb-2">
-                                <label for="search" class="mr-2">Buscar:</label>
-                                <input type="text" class="form-control" id="search" name="search" value="@ViewBag.CurrentSearch" placeholder="Material o Proveedor" />
-                            </div>
-                            <button type="submit" class="btn btn-primary btn-round ml-2">Buscar</button>
-                            <a href="@Url.Action("Index", "Material")" class="btn btn-secondary btn-round ml-2">Limpiar</a>
-                        </form>
-
-                        <div class="table-responsive mt-4">
-                            <table class="table">
-                                <thead class="text-primary">
-                                    <tr>
-                                        <th>ID</th>
-                                        <th>Material</th>
-                                        <th>Proveedor</th>
-                                        <th>Estado</th>
-                                        <th>Acciones</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    @foreach (var item in Model)
-                                    {
-                                        <tr>
-                                            <td>@item.Material_Id</td>
-                                            <td>@item.Material_Name</td>
-                                            <td>@(item.Supplier?.Supplier_Name ?? "Sin proveedor")</td>
-                                            <td>@(item.Material_Status ? "Activo" : "Inactivo")</td>
-                                            <td>
-                                                <a class="btn btn-info btn-sm" href="@Url.Action("Edit", "Material", new { id = item.Material_Id })">
-                                                    Editar
-                                                </a>
-                                                <a class="btn btn-danger btn-sm" href="@Url.Action("Delete", "Material", new { id = item.Material_Id })">
-                                                    Borrar
-                                                </a>
-                                            </td>
-                                        </tr>
-                                    }
-                                </tbody>
-                            </table>
-                        </div>
-
-                        <!-- Paginación -->
-                        <nav aria-label="Page navigation">
-                            <ul class="pagination">
-                                @{
-                                    int currentPage = ViewBag.CurrentPage ?? 1;
-                                    int totalPages = ViewBag.TotalPages ?? 1;
-                                    string currentSearch = ViewBag.CurrentSearch as string ?? "";
-                                }
-
-                                <li class="page-item @(currentPage == 1 ? "disabled" : "")">
-                                    <a class="page-link" href="@Url.Action("Index", new { search = currentSearch, page = currentPage - 1 })" aria-label="Anterior">
-                                        <span aria-hidden="true">&laquo;</span>
-                                    </a>
-                                </li>
-
-                                @for (int i = 1; i <= totalPages; i++)
-                                {
-                                    <li class="page-item @(i == currentPage ? "active" : "")">
-                                        <a class="page-link" href="@Url.Action("Index", new { search = currentSearch, page = i })">@i</a>
-                                    </li>
-                                }
-
-                                <li class="page-item @(currentPage == totalPages ? "disabled" : "")">
-                                    <a class="page-link" href="@Url.Action("Index", new { search = currentSearch, page = currentPage + 1 })" aria-label="Siguiente">
-                                        <span aria-hidden="true">&raquo;</span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </nav>
-
-                    </div>
-
+<div class="row">
+    <div class="col-12">
+        <div class="card my-4">
+            <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
+                <div class="bg-gradient-primary shadow-primary border-radius-lg pt-4 pb-3">
+                    <h6 class="text-white text-capitalize ps-3">@HeaderTitle</h6>
                 </div>
             </div>
+
+            <div class="card-body">
+
+                <!-- Botón para Crear un nuevo Material -->
+                <div class="mb-3">
+                    <a href="@Url.Action("Create", "Material")" class="btn btn-success btn-round">Crear Nuevo Material</a>
+                </div>
+
+                <!-- Formulario de Búsqueda -->
+                <form method="get" class="form-inline mb-3">
+                    <div class="input-group input-group-outline w-50 m-2">
+                        <label for="search" class="form-label">Buscar</label>
+                        <input type="text" class="form-control" id="search" name="search" value="@ViewBag.CurrentSearch"/>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-round ml-2">Buscar</button>
+                    <a href="@Url.Action("Index", "Material")" class="btn btn-secondary btn-round ml-2">Limpiar</a>
+                </form>
+
+                <div class="table-responsive mt-4">
+                    <table class="table">
+                        <thead class="text-primary">
+                            <tr>
+                                <th>ID</th>
+                                <th>Material</th>
+                                <th>Proveedor</th>
+                                <th>Estado</th>
+                                <th>Acciones</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.Material_Id</td>
+                                    <td>@item.Material_Name</td>
+                                    <td>@(item.Supplier?.Supplier_Name ?? "Sin proveedor")</td>
+                                    <td>
+                                        @if (item.Material_Status == true)
+                                        {
+                                            <span class="badge badge-sm bg-gradient-success">Habilitado</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="badge badge-sm bg-gradient-secondary">Deshabilitado</span>
+                                        }
+
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-info btn-sm" href="@Url.Action("Edit", "Material", new { id = item.Material_Id })">
+                                            Editar
+                                        </a>
+                                        <a class="btn btn-danger btn-sm" href="@Url.Action("Delete", "Material", new { id = item.Material_Id })">
+                                            Borrar
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Paginación -->
+                <nav aria-label="Page navigation">
+                    <ul class="pagination">
+                        @{
+                            int currentPage = ViewBag.CurrentPage ?? 1;
+                            int totalPages = ViewBag.TotalPages ?? 1;
+                            string currentSearch = ViewBag.CurrentSearch as string ?? "";
+                        }
+
+                        <li class="page-item @(currentPage == 1 ? "disabled" : "")">
+                            <a class="page-link" href="@Url.Action("Index", new { search = currentSearch, page = currentPage - 1 })" aria-label="Anterior">
+                                <span aria-hidden="true">&laquo;</span>
+                            </a>
+                        </li>
+
+                        @for (int i = 1; i <= totalPages; i++)
+                        {
+                            <li class="page-item @(i == currentPage ? "active" : "")">
+                                <a class="page-link" href="@Url.Action("Index", new { search = currentSearch, page = i })">@i</a>
+                            </li>
+                        }
+
+                        <li class="page-item @(currentPage == totalPages ? "disabled" : "")">
+                            <a class="page-link" href="@Url.Action("Index", new { search = currentSearch, page = currentPage + 1 })" aria-label="Siguiente">
+                                <span aria-hidden="true">&raquo;</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+
+            </div>
+
         </div>
     </div>
 </div>
