@@ -127,12 +127,12 @@ namespace SiteAsientos.Controllers
                 ModelState.AddModelError("MontoAbonado", $"El monto abonado debe ser al menos el 50% del total ({finalPrice * 0.5f:C}) o el monto total ({finalPrice:C}).");
             }
 
-            if (!ModelState.IsValid)
-            {
-                // Si hay errores, devolver la vista
-                ViewBag.BasePrice = basePrice;
-                return View(model);
-            }
+            //if (!ModelState.IsValid)
+            //{
+            //    // Si hay errores, devolver la vista
+            //    ViewBag.BasePrice = basePrice;
+            //    return View(model);
+            //}
 
             // Datos de la orden
             model.Order_Code = string.IsNullOrWhiteSpace(model.Order_Code) ? Guid.NewGuid().ToString("N").Substring(0, 32) : model.Order_Code;
